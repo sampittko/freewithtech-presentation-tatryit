@@ -145,15 +145,12 @@ background-color: #57534E
     - primárne hranie hier, sen stať sa profi hráčom (tréningy, turnaje, LAN...)
     - prevádzkovanie online herných serverov pre ostatných ako prvé podnikania
     - počas strednej školy vyvinutie záľuby v grafickom dizajne a programovaní
-- hranice neexistovali, chcel som byť online / immersed
+- hranice neexistovali, chcel som byť online / immersed, vo virtuálnom svete som bol veľmi rád
 
 ---
 
 - bolo tu pnutie dvoch svetov - skutočný a virtuálny
 - virtuálny a najmä ten herný dlhú dobu vyhrával množstvo mojej pozornosti
-
----
-
 - od gamingu k štúdiu na VŠ
 - hodiny štúdia a programovanie projektov, práce popri štúdiu
 - iné ale stále istým spôsobom v "komfortnej zóne" (gaming = programming = life):
@@ -163,14 +160,12 @@ background-color: #57534E
 
 ---
 
+- až s odstupom času som si bol schopný uvedomiť, aký na mňa majú technológie reálny vplyv a začal som robiť nevyhnutné rozhodnutia, aby sa situácia v mojom živote zlepšila
 - hranice pre technologie neexistovali a chcel som aby to tak nadalej bolo: chcel som len hrat => 1 rok hrania hier za cely svoj zivot (4% casu)
-
-- gaming projekty (Reconnect, WarShare), zaujimal som sa o vizualny dizajn
-- po hrani hier prisla VS => dalsie intenzivne sedenie za PC
-- zacal pracovny zivot, moje nadsenie zo sedenia za PC a neobmedzenych moznosti nebolo na ustupe ale prave naopak, vidim v tomto sektore slubnu karieru a este viac sedenia
-
 - potreba to cele vyvazit a nastavit technologii hranice, o to dolezitejsie ked clovek casto pracuje aj spi v tej istej izbe
 - debt bol jasny: “organizovanost”, “spojenie”, “informovanost” ; vsetko to bolo na pritaz a negativne to ovplyvnovalo vsetky 3 dolezite oblasti zivota - zdravie, praca, vztahy
+
+---
 
 - journaling ako reset button, nechal som si len telefonne cislo a email, ostatneho som sa zbavil
 - ziadna appka mi uz nehovorila co mam kedy robit, ja sam som to musel definovat
@@ -185,6 +180,8 @@ background-color: #57534E
 - najlepsia investicia casu v mojom zivote: zahladiet sa do seba, do svojich dovodov preco robim veci
 - takto som zacal zit zivot s velkym zamerom: viem co chcem dosiahnut a idem si za tym plnou energiou
 
+---
+
 - ked sa pytate kde je ta technologia tak tu, ano, nezijem v ziadnej dzungli offline, stale som tu vo svete a chcem vyuzivat moderny tech
 - niektore veci su kontraintuitivne robit cez papier ked mame vo vrecku taky vypoctovy vykon
 - zacal som inkrementalne vnasat do svojho zivota digitalne nastroje
@@ -198,6 +195,8 @@ background-color: #57534E
 - journaling  a trenie, ktore sposobuje, ma velky vyznam a pomaha mi spomalit, opytat sa ci konkretne riesenie ma vyznam, rozhodnut sa a opakovat to vdaka zvyku reflexie
 - toto je pre mna digitalny minimalizmus: amplifikovanie cloveka v oblasti vztahov, prace, a zdravia a ak to dana aplikacia nerobi, nema vyznam v mojom telefone
 
+---
+
 - koniec? mnohi koncia digitalnym minimalizmom ale pre mna to bol len zaciatku mojeho noveho vztahu s technologiou
 - vedenie dennika sposobilo, ze moja citlivost na sukromie sa zvysila
 - vsetko, co davam na internet vnimam ako verejne
@@ -210,7 +209,10 @@ background-color: #57534E
 - je to o vedomi co kontrolujem, co nie a co s tym mozem robit
 - je to o tom vediet, kedy ako a co zdielat online
 
+---
+
 - teda aby som to zhrnul, zivot s technologiou, ktoru kontrolujem verzus naopak:
+
 | tech kontroluje mna |
 - reagujem na notifikaciu hned ako pride
 - FOMO z prispevkov na socialnych sietach
@@ -223,6 +225,8 @@ background-color: #57534E
 - pritomny clovek
 - clovek, ktory nie je zavisly na telefone: ma informacie upratane
 - sukromie je dolezite
+
+---
 
 - podla vas sa oplatilo? za mna najlepsie investovany cas - ten do seba
 - vysledok je viac pritomny a cielavedomy Samuel, ktory vnima svoj cas a pozornost ako najvacsi asset
