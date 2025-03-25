@@ -234,7 +234,7 @@ background-color: #57534E
 
 ---
 
-# Čo u mňa fungovalo: Vedomie o sebe (z angl. Self-Awareness)
+# Čo u mňa funguje: Vedomie o sebe (z angl. Self-Awareness)
 
 - knihy:
     - Eric Partaker: The 3 Alarms
@@ -249,6 +249,8 @@ background-color: #57534E
 ---
 
 ![autoplay loop right](assets/incremental-adoption-video.mp4)
+
+# Inkrementálne osvojenie digitálnych nástrojov
 
 - technológie patria do nášho života
 - priestor na papieri mi umožnil uvedomiť si, ktoré digitálne nástroje majú naozaj zmysel
@@ -271,7 +273,7 @@ background-color: #57534E
 
 ---
 
-# Čo u mňa fungovalo: Digitálny minimalizmus
+# Čo u mňa funguje: Digitálny minimalizmus
 
 - vedomie o sebe a informácie s ním spojené držať v denníku
 - nikdy svoje myšlienky nepísať do digitálu (viditeľná hranica medzi osobným priestorom a prácou / zábavou)
@@ -283,17 +285,56 @@ hali
 
 ---
 
-- koniec? mnohi koncia digitalnym minimalizmom ale pre mna to bol len zaciatku mojeho noveho vztahu s technologiou
-- vedenie dennika sposobilo, ze moja citlivost na sukromie sa zvysila
-- vsetko, co davam na internet vnimam ako verejne
-- presun zmyslania od sustredenia ku kontrole
-- kto vlastni moje data? kolko mojich privatnynch informacii musi byt naozaj online?
-- ak online, ako firma naraba s datami? je ich biznis model zalozeny na exploitacii mojich dat?
-- uzamykanie do ekosystemu: aku mieru flexibility? mozem odstranit svoj ucet? viem exportovat data?
-- chcem investovat cas a nastavit si appku na home cloude? NAS?
-- toto su veci, ktore teraz objavujem
-- je to o vedomi co kontrolujem, co nie a co s tym mozem robit
-- je to o tom vediet, kedy ako a co zdielat online
+![autoplay loop left](assets/tech-independence-video.mp4)
+
+# Optimalizácia digitálnej stopy
+
+- digitálny minimalizmus ako stupienok k technologickej nezávislosti
+
+- kontrola
+    - zálohy dát v službách
+    - uzamykanie sa do ekosystému
+
+- súkromie
+    - VPN
+    - biznis modely poskytovateľov služieb
+
+- self-hosting
+
+^ koniec? mnohi koncia digitalnym minimalizmom ale pre mna to bol len zaciatku mojeho noveho vztahu s technologiou
+
+^ vedenie dennika sposobilo, ze moja citlivost na sukromie sa zvysila
+
+^ vsetko, co davam na internet vnimam ako verejne
+
+^ presun zmyslania od sustredenia ku kontrole
+
+^ kto vlastni moje data? kolko mojich privatnynch informacii musi byt naozaj online?
+
+^ ak online, ako firma naraba s datami? je ich biznis model zalozeny na exploitacii mojich dat?
+
+^ uzamykanie do ekosystemu: aku mieru flexibility? mozem odstranit svoj ucet? viem exportovat data?
+
+^ chcem investovat cas a nastavit si appku na home cloude? NAS?
+
+^ toto su veci, ktore teraz objavujem
+
+^ je to o vedomi co kontrolujem, co nie a co s tym mozem robit
+
+^ je to o tom vediet, kedy ako a co zdielat online
+
+---
+
+# Čo u mňa funguje: Technologická nezávislosť
+
+- používanie správcu hesiel (stále mám služby / závislosti na očiach zmapované, ľahko prehodnotím zoznam v digitálnom súbore nástrojov)
+- pravidelné zálohovanie dát z online služieb (3-2-1)
+- používanie aplikácií od rôznych poskytovateľov (správca hesiel, prehliadač, email)
+- email aliasy
+- E2E šifrovaná komunikácia
+- vnímanie online konverzácií ako stretnutie na ulici
+- viaceré vrstvy pre okamžitú komunikáciu (kritické, normálne a nechcené upozornenia)
+- kontextové zariadenia a farby LED
 
 ---
 
