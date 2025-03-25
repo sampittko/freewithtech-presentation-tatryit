@@ -139,31 +139,59 @@ background-color: #57534E
 
 ---
 
-- digitálny priestor ma ťahal, bol viac zaujímavý ako ostatné aktivity
-- po čase sa pre mňa stal voľnočasovou prioritou #1
-- 6-10 hodín/deň po škole:
-    - primárne hranie hier, sen stať sa profi hráčom (tréningy, turnaje, LAN...)
-    - prevádzkovanie online herných serverov pre ostatných ako prvé podnikania
-    - počas strednej školy vyvinutie záľuby v grafickom dizajne a programovaní
-- hranice neexistovali, chcel som byť online / immersed, vo virtuálnom svete som bol veľmi rád
+![autoplay loop](assets/gaming-and-art-video.mp4)
+
+^ digitálny priestor bol pre mňa stále viac a viac zaujímavý, až sa stal voľnočasovou prioritou #1
+
+^ 6-10 hodín/deň po škole:
+
+^ primárne hranie hier, sen stať sa profi hráčom (tréningy, turnaje, LAN...)
+
+^ prevádzkovanie online herných serverov pre ostatných ako prvé podnikania
+
+^ počas strednej školy nájdenie záľuby v grafickom dizajne a programovaní
+
+^ hranice neexistovali, chcel som byť ponorený do online sveta, tam som bol rád
 
 ---
 
-- bolo tu pnutie dvoch svetov - skutočný a virtuálny
-- virtuálny a najmä ten herný dlhú dobu vyhrával množstvo mojej pozornosti
-- od gamingu k štúdiu na VŠ
-- hodiny štúdia a programovanie projektov, práce popri štúdiu
-- iné ale stále istým spôsobom v "komfortnej zóne" (gaming = programming = life):
-    - sám a za PC
-    - digitálna komunikácia
-    - nonstop pripojenie na internet
+![autoplay loop](assets/two-worlds-video.mp4)
+
+^ bolo tu pnutie dvoch svetov - skutočný a virtuálny
+
+^ virtuálny a najmä ten herný dlhú dobu vyhrával množstvo mojej pozornosti
 
 ---
 
-- až s odstupom času som si bol schopný uvedomiť, aký na mňa majú technológie reálny vplyv a začal som robiť nevyhnutné rozhodnutia, aby sa situácia v mojom živote zlepšila
-- hranice pre technologie neexistovali a chcel som aby to tak nadalej bolo: chcel som len hrat => 1 rok hrania hier za cely svoj zivot (4% casu)
-- potreba to cele vyvazit a nastavit technologii hranice, o to dolezitejsie ked clovek casto pracuje aj spi v tej istej izbe
-- debt bol jasny: “organizovanost”, “spojenie”, “informovanost” ; vsetko to bolo na pritaz a negativne to ovplyvnovalo vsetky 3 dolezite oblasti zivota - zdravie, praca, vztahy
+![autoplay loop](assets/late-night-coding-video.mp4)
+
+^ od gamingu k štúdiu na VŠ
+
+^ hodiny štúdia a programovanie projektov, práce popri štúdiu
+
+^ iné ale stále istým spôsobom v "komfortnej zóne" (gaming = programming = life):
+
+^ sám a za PC
+
+^ digitálna komunikácia
+
+^ nonstop pripojenie na internet
+
+---
+
+![fit](assets/guessing-game.png)
+
+^ hranice pre technologie neexistovali a chcel som aby to tak nadalej bolo: chcel som len hrat => 1 rok hrania hier za cely svoj zivot
+
+^ až s odstupom času som si bol schopný uvedomiť, aký na mňa majú technológie reálny vplyv a začal som robiť nevyhnutné rozhodnutia, aby sa situácia v mojom živote zlepšila
+
+^ dlh bol uz jasny: “organizovanost”, “spojenie”, “informovanost” ; vsetko to bolo na pritaz a negativne to ovplyvnovalo vsetky 3 dolezite oblasti zivota - zdravie, praca, vztahy
+
+^ nenapadne sa mi technologia dostala pod kozu a ovplyvnovala moje fungovanie tak ako som nechcel
+
+---
+
+![fit](assets/guessing-game-reveal.png)
 
 ---
 
