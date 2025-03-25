@@ -27,6 +27,10 @@ background-color: #57534E
 
 ---
 
+![autoplay loop](assets/digital-slavery-video.mp4)
+
+---
+
 [.background-color: #FF0000]
 
 ![right autoplay loop](assets/health-video.mp4)
@@ -66,8 +70,10 @@ background-color: #57534E
 
 ---
 
-# [fit] Technológie mi
-# [fit] bránili žiť prítomný
+[.background-color: #FF0000]
+
+# [fit] Technológie ti
+# [fit] bránia žiť prítomný
 # [fit] okamih naplno
 
 ---
@@ -81,6 +87,12 @@ background-color: #57534E
 ![](assets/freedom-hands.png)
 
 ---
+
+![autoplay loop](assets/digital-freedom-video.mp4)
+
+---
+
+[.background-color: #0078C5]
 
 # Ahoj, ja som Samuel 👋🏻[^3]
 
@@ -108,10 +120,10 @@ background-color: #57534E
 
 # Digital Native
 
-- vyrastal som počas zrodu **informačnej doby[^3]** ako ju poznáme dnes (+/-)
-- čas kedy bol ešte pokec.sk[^4] cool
+- vyrastal som počas zrodu **informačnej doby[^4]** ako ju poznáme dnes (+/-)
+- čas kedy bol ešte pokec.sk[^5] cool
 <sub>(vlastne každé vznikajúce online fórum umožňujúce interakcie medzi ľuďmi)</sub>
-- Facebook[^5] som si založil keď som mal približne **12 rokov**
+- Facebook[^6] som si založil keď som mal približne **12 rokov**
 <sub>(relatívne neskoro pre súčasnú generáciu)</sub>
 - prvý telefón som dostal v 3. ročníku na základnej škole
 
@@ -119,7 +131,7 @@ background-color: #57534E
 
 - počas výchovy som bol podnecovaný **k aktívnemu pohybu**:
     - futbal ⚽️ (2r), tenis 🎾 (2r), stolný tenis 🏓 (2r)
-    - voľnočasová turistika 🥾, bicyklovanie 🚴🏻‍♂️, plávanie 🏊🏻, lyžovanie ⛷️, beh 🏃🏻
+    - turistika 🥾, bicyklovanie 🚴🏻‍♂️, plávanie 🏊🏻, lyžovanie ⛷️, beh 🏃🏻
 
 ![](assets/cycling.JPG)
 ![](assets/hiking.jpg)
@@ -127,7 +139,27 @@ background-color: #57534E
 
 ---
 
+- digitálny priestor ma ťahal, bol viac zaujímavý ako ostatné aktivity
+- po čase sa pre mňa stal voľnočasovou prioritou #1
+- 6-10 hodín/deň po škole:
+    - primárne hranie hier, sen stať sa profi hráčom (tréningy, turnaje, LAN...)
+    - prevádzkovanie online herných serverov pre ostatných ako prvé podnikania
+    - počas strednej školy vyvinutie záľuby v grafickom dizajne a programovaní
+- hranice neexistovali, chcel som byť online / immersed
 
+---
+
+- bolo tu pnutie dvoch svetov - skutočný a virtuálny
+- virtuálny a najmä ten herný dlhú dobu vyhrával množstvo mojej pozornosti
+
+---
+
+- od gamingu k štúdiu na VŠ
+- hodiny štúdia a programovanie projektov, práce popri štúdiu
+- iné ale stále istým spôsobom v "komfortnej zóne" (gaming = programming = life):
+    - sám a za PC
+    - digitálna komunikácia
+    - nonstop pripojenie na internet
 
 ---
 
