@@ -163,7 +163,9 @@ background-color: #57534E
 
 ---
 
-![fit](assets/guessing-game.png)
+# Hádanka: Ktorá farba predstavuje akú činnosť?
+
+![original 90%](assets/guessing-game.png)
 
 ^ hranice pre technologie neexistovali a chcel som aby to tak nadalej bolo: chcel som len hrat => 1 rok hrania hier za cely svoj zivot
 
@@ -175,7 +177,9 @@ background-color: #57534E
 
 ---
 
-![fit](assets/guessing-game-reveal.png)
+# Riešenie: Ktorá farba predstavuje akú činnosť?
+
+![original 90%](assets/guessing-game-reveal.png)
 
 ---
 
@@ -201,32 +205,24 @@ background-color: #57534E
 
 # Pero a papier ako nový začiatok
 
-- vedenie denníka ako tlačidlo pre reset môjho vzťahu s technológiou 📝
-- simplifikácia digitálneho priestoru: telefónne číslo a email ako jediné kontaktné body v online priestore
+- vedenie denníka ako tlačidlo __RESET__ pre môj vzťah s technológiou 📝
 - 💯% pozornosti v mojich rukách
 - budovanie disciplíny pre pravidelný pohyb 🏃🏻
 - plne sústredená práca 👨🏻‍💻
 - uprednostnenie osobných stretnutí 💁🏻‍♂️ 🛑 📱
+- jasné ciele a schopnosť povedať nie 🙅🏻‍♂️
 
-^ journaling ako reset button, nechal som si len telefonne cislo a email, ostatneho som sa zbavil
+^ dennik = RESET
 
-^ ziadna appka mi uz nehovorila co mam kedy robit, ja sam som to musel definovat
+^ NOVE ZMYSLANIE: ja som panom casu, nie 📱
 
-^ niekto si mozno povie: preco byt kontraproduktivny? mame vsetky tieto nastroje aby nam ulahcovali zivot
+^ prilezitost znovu ziskat svoju pozornost
 
-^ pozornost ako resource cislo 1, nechcem uz byt o nu okradany
+^ kontraproduktivnost? nevyhnutnte v mojej situacii pre sebauvedomenie
 
-^ zacal som tak, ze som si vsetko pisal na papier
-
-^ zacal som si odskrtavat navyky
-
-^ zacal som viac pocuvat seba, zacal som merat aj emocie
-
-^ stalo to cele na pravidelnej reflexii, ziadne notifikacie, len budik na telefone mi povedal, ze je cas zhrnut si posledny den a pozriet sa na dalsi
+^ pisanie vplyva pozitivne na ucenie
 
 ^ POVEDAL SOM ANO SEBE
-
-^ mne sa ukazalo, ze papier a pero maju stale svoje miesto a po vyse 2 rokoch: 20 min / den alebo 240 hodin (1,5% z casu dvoch rokov)
 
 ^ najlepsia investicia casu v mojom zivote: zahladiet sa do seba, do svojich dovodov preco robim veci
 
@@ -234,17 +230,21 @@ background-color: #57534E
 
 ---
 
-# Čo u mňa funguje: Vedomie o sebe (z angl. Self-Awareness)
+[.background-color: #008000]
 
-- knihy:
+# Čo u mňa funguje: Sebauvedomenie (z angl. Self-Awareness)
+
+- zápisník ako centrálny systém pre organizáciu informácií v mojom živote
+- stop nekritickým aplikáciám na telefóne: telefónne číslo a email ako jediné kontaktné body na nejaký čas
+- pravidelná reflexia: pohľad na svoj život z hľadiska rokov a mesiacov, nie len dní
+- upozornenia na reflexiu cez budík
+- zaznamenávanie návykov na dennej báze
+- priznať si svoje pocity viackrát do dňa
+- 240 hodín za 2 roky / 20 minút denne
+- 3 knihy:
     - Eric Partaker: The 3 Alarms
     - Ryder Caroll: Bullet Journal Method
     - Cal Newport: Deep Work
-- aktivity:
-    - pravidelná reflexia
-    - škrtanie denných zvykov
-    - priznať si pocity viackrát do dňa
-    - sledovanie toku času a peňazí
 
 ---
 
@@ -253,35 +253,53 @@ background-color: #57534E
 # Inkrementálne osvojenie digitálnych nástrojov
 
 - technológie patria do nášho života
+- PREČO potrebujem tento nástroj?
 - priestor na papieri mi umožnil uvedomiť si, ktoré digitálne nástroje majú naozaj zmysel
-- pero a papier sú niekedy zbytočné trenie
+- pero a papier predstavujú v niektorých prípadoch zbytočné trenie
 - denník mi umožnil pýtať sa, čo môže ísť do online priestoru a čo nie (vyvinutie citlivosti na súkromie)
 - každý nástroj slúži jednej z 3 hlavných oblastí života, čau ak nie
 
-^ ked sa pytate kde je ta technologia tak tu, ano, nezijem v ziadnej dzungli offline, stale som tu vo svete a chcem vyuzivat moderny tech
+^ technologie su sucast zivota
+
+^ rozlisovacia schopnost vdaka denniku
+
 ^ niektore veci su kontraintuitivne robit cez papier ked mame vo vrecku taky vypoctovy vykon
+
 ^ zacal som inkrementalne vnasat do svojho zivota digitalne nastroje
-^ pozor, dennik ostava ako zaklad vedomia o sebe samom, je to viditelna hranica medzi mnou a technologiou, ktora ma dolezity vyznam pre to, aby som nespadol tam kde som bol na zaciatku svojej cesty za digitalnou slobodou
+
+^ pozor, dennik ostava ako zaklad sebauvedomenia, je to viditelna hranica medzi mnou a technologiou, ktora ma dolezity vyznam pre to, aby som nespadol tam kde som bol na zaciatku svojej cesty za digitalnou slobodou
+
 ^ je tu teda otazka, co ma ostat na papieri a co moze ist von: je mi jedno, ci Google vie, ze som dnes na Tatry IT preto digitalny kalendar
+
 ^ je tu velmi viditelna otazka sukromia: vedome sa rozhodujem, ktorych oblasti sa vzdat
+
 ^ kde ma vyznam manualne pisanie a kde je to uz otrava?
+
 ^ niektore nastroje nemalo vyznam pouzivat znovu, ak napr. niektore socialne siete, bol som si vedomy svojej energie, ktoru mi davali ked som ich pouzival a nechcel som sa k tomu vratit
+
 ^ nie vsetky, niektore soc. siete su fajn a motivuju cloveka k dobrym veciam, v akych pripadoch som sa chcel vyhnut doomscrollingu, dal som tam dalsie vrstvy aby sa odomkli tazsie, pripadne som ich nemal na telefone vobec
+
 ^ podstatne bolo, aby moja pozornost bola tam kde ma byt vacsinu casu
+
 ^ journaling a trenie, ktore sposobuje, ma velky vyznam a pomaha mi spomalit, opytat sa ci konkretne riesenie ma vyznam, rozhodnut sa a opakovat to vdaka zvyku reflexie
+
 ^ toto je pre mna digitalny minimalizmus: amplifikovanie cloveka v oblasti vztahov, prace, a zdravia a ak to dana aplikacia nerobi, nema vyznam v mojom telefone
 
 ---
 
+[.background-color: #008000]
+
 # Čo u mňa funguje: Digitálny minimalizmus
 
-- vedomie o sebe a informácie s ním spojené držať v denníku
-- nikdy svoje myšlienky nepísať do digitálu (viditeľná hranica medzi osobným priestorom a prácou / zábavou)
-- zrušil som si niektoré sociálne siete, ostatné som obmedzil
-- rozmýšľanie v kontextoch (osobný čas, pracovný čas)
+- sebauvedomenie a informácie s ním spojené držať v denníku
+- nikdy svoje myšlienky nepísať do digitálu, len offloading (viditeľná hranica medzi osobným priestorom a prácou / zábavou)
+- zrušil som si niektoré sociálne siete, ostatné som dostatočne obmedzil
+- rozmýšľanie v 2 hlavných kontextoch (osobný čas, pracovný čas)
 - sledovanie svojej energie počas dňa mi umožnilo povedať nie mnohým online nástrojom, ktoré ma ťa
 hali
 - trenie má veľký význam, optimalizácia pre rýchlosť tu nie je nápomocná
+- 0 inbox všade
+- viaceré vrstvy pre okamžitú komunikáciu (kritické, normálne a nechcené upozornenia)
 
 ---
 
@@ -325,6 +343,8 @@ hali
 
 ---
 
+[.background-color: #008000]
+
 # Čo u mňa funguje: Technologická nezávislosť
 
 - používanie správcu hesiel (stále mám služby / závislosti na očiach zmapované, ľahko prehodnotím zoznam v digitálnom súbore nástrojov)
@@ -333,7 +353,6 @@ hali
 - email aliasy
 - E2E šifrovaná komunikácia
 - vnímanie online konverzácií ako stretnutie na ulici
-- viaceré vrstvy pre okamžitú komunikáciu (kritické, normálne a nechcené upozornenia)
 - kontextové zariadenia a farby LED
 
 ---
@@ -358,6 +377,6 @@ hali
 - podla vas sa oplatilo? za mna najlepsie investovany cas - ten do seba
 - vysledok je viac pritomny a cielavedomy Samuel, ktory vnima svoj cas a pozornost ako najvacsi asset
 - ak sa niekto z vas tu alebo pri obrazovkach nachadza v zivotnej situacii skor na tej strane, kde tech kontroluje vas, pozyvam vas pozriet kanal FWT na YouTube
-- rozhodol som sa otvorene hovorit o tychto problemoch a zdielat na nich riesenia, ku ktorym som dospel za pomoci vedomia o sebe samom, za pomoci nacuvania sebe samemu
+- rozhodol som sa otvorene hovorit o tychto problemoch a zdielat na nich riesenia, ku ktorym som dospel za pomoci sebauvedomenia, za pomoci nacuvania sebe samemu
 - nastavte technologie hranice alebo stratte svoju slobodu
 - zite zivot technologickej nezavislosti, v ktorom ma technologia to spravne miesto
