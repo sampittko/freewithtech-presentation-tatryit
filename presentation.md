@@ -23,7 +23,7 @@ background-color: #57534E
 [.quote: text-scale(2.5), Bebas Neue]
 
 > Si digitálny otrok[^1]
--- Samuel Pitoňák, 2022
+-- moje zistenie počas roku 2022
 
 ---
 
@@ -94,13 +94,13 @@ background-color: #57534E
 
 [.background-color: #0078C5]
 
-# Ahoj, ja som Samuel 👋🏻[^3]
+# Ahoj, volám sa Samuel Pitoňák 👋🏻[^3]
 
-> Making the web a better place through React, one component at a time.
+> Robím web lepším miestom za pomoci knižnice React, jeden komponent po druhom.
 
 - Webový vývojár zameraný na čisté a efektívne riešenia.
-- Vytváram aj projekty, ktoré odrážajú moje hodnoty.
-- Moje motto: _Priniesť hodnotu. Ďalšia akcia. Opakovať. Žiť slobodne s technológiou._
+- Vytváram projekty, ktoré odrážajú moje hodnoty.
+- Moje motto: _Priniesť hodnotu. Ďalšia akcia. Opakovať. Žiť slobodne s technológiami._
 
 ![right](assets/samuel.HEIC)
 
@@ -141,25 +141,23 @@ background-color: #57534E
 
 ![autoplay loop](assets/gaming-and-art-video.mp4)
 
-^ digitálny priestor bol pre mňa stále viac a viac zaujímavý, až sa stal voľnočasovou prioritou #1
+^ digitálny priestor sa stal #1
 
-^ 6-10 hodín/deň po škole:
+^ 6-10 hodín/deň po škole
 
-^ primárne hranie hier, sen stať sa profi hráčom (tréningy, turnaje, LAN...)
+^ najskôr hry
 
-^ prevádzkovanie online herných serverov pre ostatných ako prvé podnikania
+^ grafický dizajn a programovanie
 
-^ počas strednej školy nájdenie záľuby v grafickom dizajne a programovaní
-
-^ hranice neexistovali, chcel som byť ponorený do online sveta, tam som bol rád
+^ hranice postupne prestali existovať
 
 ---
 
 ![autoplay loop](assets/two-worlds-video.mp4)
 
-^ bolo tu pnutie dvoch svetov - skutočný a virtuálny
+^ pnutie dvoch svetov
 
-^ virtuálny a najmä ten herný dlhú dobu vyhrával množstvo mojej pozornosti
+^ digitálny postupne vyhrával
 
 ---
 
@@ -167,31 +165,33 @@ background-color: #57534E
 
 ![original 90%](assets/guessing-game.png)
 
-^ hranice pre technologie neexistovali a chcel som aby to tak nadalej bolo: chcel som len hrat => 1 rok hrania hier za cely svoj zivot
-
-^ až s odstupom času som si bol schopný uvedomiť, aký na mňa majú technológie reálny vplyv a začal som robiť nevyhnutné rozhodnutia, aby sa situácia v mojom živote zlepšila
-
-^ dlh bol uz jasny: “organizovanost”, “spojenie”, “informovanost” ; vsetko to bolo na pritaz a negativne to ovplyvnovalo vsetky 3 dolezite oblasti zivota - zdravie, praca, vztahy
-
-^ nenapadne sa mi technologia dostala pod kozu a ovplyvnovala moje fungovanie tak ako som nechcel
-
 ---
 
 # Riešenie: Ktorá farba predstavuje akú činnosť?
 
 ![original 90%](assets/guessing-game-reveal.png)
 
+^ kalkulácia: 1/20 času stráveného hraním hier
+
+^ samozrejme, ak máte sen stať sa profesionálnym hráčom v CSku tak to inak nejde
+
+^ odstup času -> vytriezvenie
+
+^ dlh: “organizovanost”
+
+^ dlh: “spojenie”
+
+^ dlh: “informovanost”
+
 ---
 
 ![autoplay loop](assets/late-night-coding-video.mp4)
 
-^ od gamingu k štúdiu na VŠ
+^ od gamingu k VŠ
 
-^ hodiny štúdia a programovanie projektov, práce popri štúdiu
+^ "komfortná zóna"
 
-^ iné ale stále istým spôsobom v "komfortnej zóne" (gaming = programming = life):
-
-^ sám a za PC
+^ ja a PC
 
 ^ digitálna komunikácia
 
@@ -205,28 +205,26 @@ background-color: #57534E
 
 # Pero a papier ako nový začiatok
 
-- vedenie denníka ako tlačidlo __RESET__ pre môj vzťah s technológiou 📝
+- vedenie denníka ako stlačenie tlačidla __RESET__ pre môj vzťah s technológiou 📝
 - 💯% pozornosti v mojich rukách
 - budovanie disciplíny pre pravidelný pohyb 🏃🏻
 - plne sústredená práca 👨🏻‍💻
 - uprednostnenie osobných stretnutí 💁🏻‍♂️ 🛑 📱
-- jasné ciele a schopnosť povedať nie 🙅🏻‍♂️
+- zmysel pre hranice medzi realitou a technológiou ⎅
 
 ^ dennik = RESET
 
-^ NOVE ZMYSLANIE: ja som panom casu, nie 📱
+^ ja som panom casu, nie 📱
 
 ^ prilezitost znovu ziskat svoju pozornost
 
-^ kontraproduktivnost? nevyhnutnte v mojej situacii pre sebauvedomenie
+^ kontraproduktivita? nevyhnutne v mojej situacii pre ziskanie sebauvedomenia
 
-^ pisanie vplyva pozitivne na ucenie
+^ pisanie je dobre
 
-^ POVEDAL SOM ANO SEBE
+^ dovody PRECO nachadzam v sebe
 
-^ najlepsia investicia casu v mojom zivote: zahladiet sa do seba, do svojich dovodov preco robim veci
-
-^ takto som zacal zit zivot s velkym zamerom: viem co chcem dosiahnut a idem si za tym plnou energiou
+^ existencia so zamerom
 
 ---
 
@@ -354,6 +352,8 @@ hali
 - E2E šifrovaná komunikácia
 - vnímanie online konverzácií ako stretnutie na ulici
 - kontextové zariadenia a farby LED
+- môžem opustiť službu? alebo to je náročné?
+- online komunikácia je dočasná
 
 ---
 
@@ -380,3 +380,23 @@ hali
 - rozhodol som sa otvorene hovorit o tychto problemoch a zdielat na nich riesenia, ku ktorym som dospel za pomoci sebauvedomenia, za pomoci nacuvania sebe samemu
 - nastavte technologie hranice alebo stratte svoju slobodu
 - zite zivot technologickej nezavislosti, v ktorom ma technologia to spravne miesto
+
+---
+
+[.background-color: #008000]
+
+![](assets/freedom-hands.png)
+
+# Pridaj sa na cestu k digitálnej slobode
+
+- _obsah v slovenčine:_
+# www.digitalneotroctvo.sk
+# www.digitalnasloboda.sk
+
+- _obsah v angličtine:_
+# www.freewith.tech
+# www.youtube.com/@FreeWithTech
+# www.freewithtech.substack.com
+
+- _buďme v kontakte_:
+# www.samuelpitonak.sk
