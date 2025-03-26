@@ -232,17 +232,14 @@ background-color: #57534E
 
 # Čo u mňa funguje: Sebauvedomenie (z angl. Self-Awareness)
 
-- zápisník ako centrálny systém pre organizáciu informácií v mojom živote
-- stop nekritickým aplikáciám na telefóne: telefónne číslo a email ako jediné kontaktné body na nejaký čas
-- pravidelná reflexia: pohľad na svoj život z hľadiska rokov a mesiacov, nie len dní
-- upozornenia na reflexiu cez budík
-- zaznamenávanie návykov na dennej báze
+- HARD STOP
+    - odstránenie nekritických aplikácií a na nejaký čas si nechať len telefónne číslo a email ako jediné kontaktné body
+- denník mimo technológií ako centrálny systém pre organizáciu života
+    - 240 hodín za 2 roky / 20 minút denne
+    - pravidelná reflexia: pohľad na svoj život z hľadiska rokov a mesiacov, nie len dní - uvedomenie si cyklov
+    - upozornenia cez budík
+- zaznamenávanie dôležitých návykov na dennej báze
 - priznať si svoje pocity viackrát do dňa
-- 240 hodín za 2 roky / 20 minút denne
-- 3 knihy:
-    - Eric Partaker: The 3 Alarms
-    - Ryder Caroll: Bullet Journal Method
-    - Cal Newport: Deep Work
 
 ---
 
@@ -314,6 +311,13 @@ hali
 - súkromie
     - VPN
     - biznis modely poskytovateľov služieb
+    - alternatívne aplikácie
+
+- zrusit infinite scroll cez watch later
+
+- zamknut appku
+
+- vypnut historiu
 
 - self-hosting
 
