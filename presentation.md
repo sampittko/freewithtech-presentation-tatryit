@@ -222,8 +222,6 @@ background-color: #57534E
 
 ^ pisanie je dobre
 
-^ dovody PRECO nachadzam v sebe
-
 ^ existencia so zamerom
 
 ---
@@ -235,9 +233,10 @@ background-color: #57534E
 - HARD STOP
     - odstránenie nekritických aplikácií a na nejaký čas si nechať len telefónne číslo a email ako jediné kontaktné body
 - denník mimo technológií ako centrálny systém pre organizáciu života
-    - 240 hodín za 2 roky / 20 minút denne
-    - pravidelná reflexia: pohľad na svoj život z hľadiska rokov a mesiacov, nie len dní - uvedomenie si cyklov
-    - upozornenia cez budík
+    - automatické písanie, všetko do neho zachytiť
+    - pravidelná reflexia
+        - pohľad na svoj život z hľadiska rokov a mesiacov, nie len dní
+        - uvedomenie si cyklov (deň, týždeň, mesiac)
 - zaznamenávanie dôležitých návykov na dennej báze
 - priznať si svoje pocity viackrát do dňa
 
@@ -245,40 +244,32 @@ background-color: #57534E
 
 ![autoplay loop right](assets/incremental-adoption-video.mp4)
 
-# Inkrementálne osvojenie digitálnych nástrojov
+# Postupné znovuosvojenie digitálnych nástrojov
 
-- technológie patria do nášho života
-- PREČO potrebujem tento nástroj?
-- priestor na papieri mi umožnil uvedomiť si, ktoré digitálne nástroje majú naozaj zmysel
-- pero a papier predstavujú v niektorých prípadoch zbytočné trenie
-- denník mi umožnil pýtať sa, čo môže ísť do online priestoru a čo nie (vyvinutie citlivosti na súkromie)
-- každý nástroj slúži jednej z 3 hlavných oblastí života, čau ak nie
+- denník niekedy prináša zbytočné trenie, technológie patria do nášho života
+- príležitosť nakresliť jasnú čiaru medzi sebou a digitálnym priestorom
+- základná otázka: prečo potrebujem tento digitálny nástroj? je mi jasný jeho účel?
+- bola by výpočtová sila prínosná alebo je dobré spomaliť a ostať pri písaní?
+- aplikácie navrhnuté tak, aby sme pri nich dlho sedeli
+    - sťaženie prístupu
+    - trvalé odstránenie
+    - nekonečné "feeds" premeniť na konečné zoznamy
 
-^ technologie su sucast zivota
+^ technologie su tu, treba ich vyuzit vo svoj prospech
 
-^ rozlisovacia schopnost vdaka denniku
+^ kde nakreslim deliacu ciaru?
 
-^ niektore veci su kontraintuitivne robit cez papier ked mame vo vrecku taky vypoctovy vykon
+^ kde ma vyznam manualne pisanie a maximalne sukromie, kde je to uz otrava?
 
-^ zacal som inkrementalne vnasat do svojho zivota digitalne nastroje
+^ digitalny kalendar hned ANO
 
-^ pozor, dennik ostava ako zaklad sebauvedomenia, je to viditelna hranica medzi mnou a technologiou, ktora ma dolezity vyznam pre to, aby som nespadol tam kde som bol na zaciatku svojej cesty za digitalnou slobodou
+^ socialne siete NIE (niektore ano, motivacne)
 
-^ je tu teda otazka, co ma ostat na papieri a co moze ist von: je mi jedno, ci Google vie, ze som dnes na Tatry IT preto digitalny kalendar
+^ nekonecne zoznamy obsahu na konecne
 
-^ je tu velmi viditelna otazka sukromia: vedome sa rozhodujem, ktorych oblasti sa vzdat
+^ podstatne je, aby moja pozornost bola tam kde ma byt
 
-^ kde ma vyznam manualne pisanie a kde je to uz otrava?
-
-^ niektore nastroje nemalo vyznam pouzivat znovu, ak napr. niektore socialne siete, bol som si vedomy svojej energie, ktoru mi davali ked som ich pouzival a nechcel som sa k tomu vratit
-
-^ nie vsetky, niektore soc. siete su fajn a motivuju cloveka k dobrym veciam, v akych pripadoch som sa chcel vyhnut doomscrollingu, dal som tam dalsie vrstvy aby sa odomkli tazsie, pripadne som ich nemal na telefone vobec
-
-^ podstatne bolo, aby moja pozornost bola tam kde ma byt vacsinu casu
-
-^ journaling a trenie, ktore sposobuje, ma velky vyznam a pomaha mi spomalit, opytat sa ci konkretne riesenie ma vyznam, rozhodnut sa a opakovat to vdaka zvyku reflexie
-
-^ toto je pre mna digitalny minimalizmus: amplifikovanie cloveka v oblasti vztahov, prace, a zdravia a ak to dana aplikacia nerobi, nema vyznam v mojom telefone
+^ amplifikovanie cloveka v 3 oblastiach, inak cau
 
 ---
 
@@ -286,7 +277,7 @@ background-color: #57534E
 
 # Čo u mňa funguje: Digitálny minimalizmus
 
-- sebauvedomenie a informácie s ním spojené držať v denníku
+- všetko patrí do denníka
 - nikdy svoje myšlienky nepísať do digitálu, len offloading (viditeľná hranica medzi osobným priestorom a prácou / zábavou)
 - zrušil som si niektoré sociálne siete, ostatné som dostatočne obmedzil
 - rozmýšľanie v 2 hlavných kontextoch (osobný čas, pracovný čas)
