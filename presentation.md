@@ -516,6 +516,6 @@ background-color: #57534E
     # www.youtube.com/@FreeWithTech
         🎥 nové video každý piatok
     # www.freewith.tech
-        ✍🏻 podpíš Manifest k digitálnej slobode
+        ✍🏻 podpíš sa pod Manifest k digitálnej slobode
 
 ^ otazka na zaver: chces mat aj ty svoje technologie pod kontrolou?
