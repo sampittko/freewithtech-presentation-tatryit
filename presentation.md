@@ -363,18 +363,20 @@ background-color: #57534E
 
 # 3. Technologická nezávislosť: Čo u mňa funguje
 
-- zamykanie aplikácií
-- používanie aplikácií od rôznych poskytovateľov (správca hesiel, prehliadač, email)
+- používanie aplikácií od rôznych poskytovateľov, nie 1 centrálny (správca hesiel, prehliadač, email...)
+    - objavenie možností čo sa dá a čo už nie u daného poskytovateľa služby
 - pravidelné zálohovanie dát z online služieb (kvartálne)
-- email aliasy
+- email aliasy pre zvýšené súkromie pri vytváraní účtov
 - aplikácie poskytujúce šifrovanie na oboch koncoch (z angl. end-to-end encryption)
 - vnímanie online konverzácií ako stretnutie na ulici
-- voľba služieb, ktoré mi umožňujú ľahko odísť (export dát, odstránenie účtu)
+    - časované správy, ktoré sa automaticky vymažú
+    - extrakcia informácie zo správ do systémov, ktoré plne kontrolujem
 - viaceré vrstvy pre okamžitú komunikáciu (kritické, normálne a nechcené upozornenia)
+- voľba služieb, ktoré mi umožňujú ľahko odísť (export dát, odstránenie účtu)
 - aplikácie navrhnuté tak, aby sme pri nich dlho sedeli
-    - sťaženie prístupu
+    - úmyselný odpor pri otváraní aplikácií (zamknutie, skrytie, uprednostniť nekomfortnú použiteľnosť)
     - trvalé odstránenie
-- premeniť nekonečné zoznamy obsahu na konečné
+- premeniť "nekonečné" zoznamy obsahu na konečné
 - rozmýšľanie v 2 hlavných kontextoch (osobný čas, pracovný čas)
     - kontextové zariadenia
 
