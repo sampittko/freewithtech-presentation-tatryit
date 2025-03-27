@@ -215,7 +215,7 @@ background-color: #57534E
 
 ![autoplay loop left](assets/reset-button-video.mp4)
 
-# 1. Pero a papier ako nový začiatok
+# 1. Sebauvedomenie: Pero a papier ako nový začiatok
 
 - vedenie denníka ako stlačenie tlačidla __RESET__ pre môj vzťah s technológiou 📝
 - 💯% pozornosti v mojich rukách
@@ -240,7 +240,7 @@ background-color: #57534E
 
 [.background-color: #008000]
 
-# Sebauvedomenie: Čo u mňa funguje
+# 1. Sebauvedomenie: Čo u mňa funguje
 
 - HARD STOP
     - odstránenie nekritických aplikácií a na nejaký čas si nechať len telefónne číslo a email ako jediné kontaktné body
@@ -268,15 +268,12 @@ background-color: #57534E
 
 ![autoplay loop right](assets/incremental-adoption-video.mp4)
 
-# 2. Postupné znovuosvojenie digitálnych nástrojov
+# 2. Digitálny minimalizmus: Postupné znovuosvojenie digitálnych nástrojov
 
 - denník niekedy prináša zbytočné trenie, technológie patria do nášho života
 - príležitosť nakresliť jasnú čiaru medzi sebou a digitálnym priestorom
 - základná otázka: prečo potrebujem tento digitálny nástroj? je mi jasný jeho účel?
 - bola by výpočtová sila prínosná alebo je dobré spomaliť a ostať pri písaní?
-- aplikácie navrhnuté tak, aby sme pri nich dlho sedeli
-    - sťaženie prístupu
-    - trvalé odstránenie
 
 ^ tech treba vyuzit v prospech
 
@@ -284,11 +281,11 @@ background-color: #57534E
 
 ^ kde je pisanie otrava?
 
-^ digitalny kalendar hned ANO
+^ digitalny kalendar hned ANO (produktivita)
 
-^ socialne siete NIE (niektore ano, motivacne)
+^ socialne siete NIE/nie (znechutenie/motivacia)
 
-^ moje pozornost #1
+^ moja pozornost #1
 
 ^ 3 oblasti, cau
 
@@ -296,13 +293,14 @@ background-color: #57534E
 
 [.background-color: #008000]
 
-# Digitálny minimalizmus: Čo u mňa funguje
+# 2. Digitálny minimalizmus: Čo u mňa funguje
 
 - vždy začínam písaním do denníka
-- rozmýšľanie v 2 hlavných kontextoch (osobný čas, pracovný čas)
-- kontextové zariadenia
 - sledovanie svojej energie počas dňa mi umožnilo povedať nie mnohým online nástrojom, ktoré ma ťahali
 - 0 inbox všade (odložiť, archivovať, odstrániť)
+- zišla by sa pri tejto činnosti výpočtová sila?
+- znovuvyhodnocovanie nástrojov, ktoré som si osvojil
+- správca hesiel pre zmapovanie digitálnych závislostí
 
 ^ 1. krok dennik
 
@@ -310,26 +308,33 @@ background-color: #57534E
 
 ^ ak nemam dennik pri sebe, autowriting / offloading
 
-^ rozmyslanie: 2 kontexty
-
-^ kontextové zariadenia
-
 ^ archivovat, odstranit, odlozit
+
+^ sila: vizualizacia, komunikacia
+
+^ opakované reflektovanie na nástroje (PW Manager)
 
 ---
 
 ![autoplay loop left](assets/tech-independence-video.mp4)
 
-# Optimalizácia digitálnej stopy
+# 3. Technologická nezávislosť: Optimalizácia digitálnej stopy
 
-- digitálny minimalizmus ako stupienok k technologickej nezávislosti
+- kontrola a súkromie sú priority
 - viaceré vrstvy pre okamžitú komunikáciu (kritické, normálne a nechcené upozornenia)
-- nekonečné zoznamy na konečné
-- kontrola a súkromie ako priority
-- zamknut appku
-- vypnut historiu
-
+- zálohovanie dát
+- som produktom?
+- aplikácie navrhnuté tak, aby sme pri nich dlho sedeli
+    - sťaženie prístupu
+    - trvalé odstránenie
 - open-source, self-hosting
+- VPN
+
+- nekonečné zoznamy na konečné
+- zamknutie aplikácií
+- rozmýšľanie v 2 hlavných kontextoch (osobný čas, pracovný čas)
+- kontextové zariadenia
+- vypnutie odporúčaní na YouTube
 
 ^ 1. PRITONMNOST 2. SUSTREDENIE
 
@@ -355,11 +360,15 @@ background-color: #57534E
 
 ^ KEDY, AKO, CO zdielat online
 
+^ rozmyslanie: 2 kontexty
+
+^ kontextové zariadenia
+
 ---
 
 [.background-color: #008000]
 
-# Technologická nezávislosť: Čo u mňa funguje
+# 3. Technologická nezávislosť: Čo u mňa funguje
 
 - zamykanie aplikácií
 - používanie správcu hesiel (stále mám služby / závislosti na očiach zmapované, ľahko prehodnotím zoznam v digitálnom súbore nástrojov)
@@ -389,6 +398,7 @@ background-color: #57534E
 
 # Po
 
+- čo to je "doomscrolling"?
 - telefón je rozšírením reality a nie základom reality, jasná hranica
 - väčšina aplikácií ma nevie zastihnúť cez upozornenia
 - plná sústredenosť na prítomný moment
