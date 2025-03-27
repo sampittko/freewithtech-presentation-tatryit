@@ -456,9 +456,11 @@ background-color: #57534E
 
 ![](assets/freedom-hands.png)
 
-# [fit] 1. Sebauvedomenie
+# [fit] 1.
 
-# [fit] Nie technológii
+# [fit] Sebauvedomenie—
+
+# [fit] Nie technológii,
 
 # [fit] áno sebe
 
@@ -468,9 +470,11 @@ background-color: #57534E
 
 ![](assets/freedom-hands.png)
 
-# [fit] 2. Digitálny minimalizmus
+# [fit] 2.
 
-# [fit] Appky ako rozšírenie života
+# [fit] Digitálny minimalizmus—
+
+# [fit] Appky ako rozšírenie života,
 
 # [fit] Nie podstata
 
@@ -480,7 +484,9 @@ background-color: #57534E
 
 ![](assets/freedom-hands.png)
 
-# [fit] 3. Technologická nezávislosť
+# [fit] 3.
+
+# [fit] Technologická nezávislosť—
 
 # [fit] Prevzatie kontroly
 
