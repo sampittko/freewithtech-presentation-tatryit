@@ -417,7 +417,7 @@ background-color: #57534E
 
 [.background-color: #FF0000]
 
-# Pred
+# Pred transformáciou
 
 - upozornenia sú najdôležitejšie v danom okamihu
 - minimálna schopnosť sústrediť sa po dlhší čas
@@ -432,7 +432,7 @@ background-color: #57534E
 
 ![](assets/freedom-hands.png)
 
-# Po
+# Po transformácii
 
 - čo to je "doomscrolling"?
 - telefón je rozšírením reality a nie základom reality, jasná hranica
@@ -445,6 +445,10 @@ background-color: #57534E
 ---
 
 # [fit] Oplatilo sa?
+
+## www.digitalneotroctvo.sk ❌
+
+## www.digitalnasloboda.sk ✅
 
 ---
 
@@ -495,13 +499,18 @@ background-color: #57534E
 # [fit] Pridaj sa na cestu k digitálnej slobode
 
 - _obsah v slovenčine:_
-# www.digitalneotroctvo.sk
-# www.digitalnasloboda.sk
-
+    # www.digitalneotroctvo.sk
+        ❔ kvíz na 2 minúty — zisti kde si na spektre od digitálneho otroctva po digitálnu slobodu
+    # www.digitalnasloboda.sk
+        📗 tipy — čo u mňa fungovalo
+        
 - _obsah v angličtine:_
-# www.freewith.tech
-# www.youtube.com/@FreeWithTech
-# www.freewithtech.substack.com
+    # www.freewithtech.substack.com
+        📄 nový blog každý štvrtok
+    # www.youtube.com/@FreeWithTech
+        🎥 nové video každý piatok
+    # www.freewith.tech
+        ✍🏻 podpíš Manifest k digitálnej slobode
 
 - _buďme v kontakte_:
 # www.samuelpitonak.sk
