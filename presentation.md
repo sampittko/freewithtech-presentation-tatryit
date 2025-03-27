@@ -258,8 +258,6 @@ background-color: #57534E
 
 ^ dennik mimo tech
 
-^ autowriting / offloading
-
 ^ pravid. reflexia
 
 ^ zaznamenavanie navykov na dennej baze
@@ -279,7 +277,6 @@ background-color: #57534E
 - aplikácie navrhnuté tak, aby sme pri nich dlho sedeli
     - sťaženie prístupu
     - trvalé odstránenie
-    - nekonečné "feeds" premeniť na konečné zoznamy
 
 ^ tech treba vyuzit v prospech
 
@@ -306,18 +303,25 @@ background-color: #57534E
 - rozmýšľanie v 2 hlavných kontextoch (osobný čas, pracovný čas)
 - kontextové zariadenia
 - sledovanie svojej energie počas dňa mi umožnilo povedať nie mnohým online nástrojom, ktoré ma ťahali
-- trenie má veľký význam, optimalizácia pre rýchlosť nie je vždy nápomocná
 - 0 inbox všade
 - viaceré vrstvy pre okamžitú komunikáciu (kritické, normálne a nechcené upozornenia)
 - nekonečné zoznamy na konečné
 
 ^ 1. krok dennik
 
-^ mindful soc. siete
+^ technologia rozsirenie, nie podstata
 
-^ 2 kontexty
+^ ak nemam dennik pri sebe, autowriting / offloading
 
-^ kontextové zariadenia a farby LED
+^ rozmyslanie: 2 kontexty
+
+^ kontextové zariadenia
+
+^ archivovat, odstranit, odlozit
+
+^ vrstvenie online komunikacie
+
+^ "feedy" na zoznamy
 
 ---
 
