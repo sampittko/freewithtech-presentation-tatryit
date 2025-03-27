@@ -64,8 +64,8 @@ background-color: #57534E
 # [fit] Si digitálny otrok[^1]
 
 - **technológie negatívne vplývajú na rozvoj tvojich vzťahov**:
-    - máš potrebu na sociálnych sieťach zdieľať len pozitívne stránky svojho života namiesto reality
-    - pridávaš si sledovateľov lebo vyššie číslo vyzerá viac cool
+    - vypisuješ si s ľuďmi namiesto toho aby si sa s nimi stretol
+    - zverejňuješ len pozitívnu stránku svojho života
     - ...
 
 ---
@@ -277,7 +277,7 @@ background-color: #57534E
 
 # Čo u mňa funguje: Digitálny minimalizmus
 
-- všetko patrí do denníka
+- vždy začínam písaním do denníka
 - nikdy svoje myšlienky nepísať do digitálu, len offloading (viditeľná hranica medzi osobným priestorom a prácou / zábavou)
 - zrušil som si niektoré sociálne siete, ostatné som dostatočne obmedzil
 - rozmýšľanie v 2 hlavných kontextoch (osobný čas, pracovný čas)
@@ -352,29 +352,31 @@ hali
 
 ---
 
-- teda aby som to zhrnul, zivot s technologiou, ktoru kontrolujem verzus naopak:
+[.background-color: #FF0000]
 
-| tech kontroluje mna |
-- reagujem na notifikaciu hned ako pride
-- FOMO z prispevkov na socialnych sietach
-- doomscrolling
+# Pred
 
-| ja kontrolujem tech |
-- ja urcujem, kedy ma ktora aplikacia oslovi
-- ja rozhodujem, co je dolezite
-- viem kedy a ktora aplikacia ma hodnotu pre mna
-- pritomny clovek
-- clovek, ktory nie je zavisly na telefone: ma informacie upratane
-- sukromie je dolezite
+- upozornenia sú najdôležitejšie v danom okamihu
+- minimálna schopnosť sústrediť sa po dlhší čas
+- "doomscrolling"
+- otváranie aplikácií bez konkrétneho cieľa
+- používanie predvolených aplikácií a nastavení
 
 ---
 
-- podla vas sa oplatilo? za mna najlepsie investovany cas - ten do seba
-- vysledok je viac pritomny a cielavedomy Samuel, ktory vnima svoj cas a pozornost ako najvacsi asset
-- ak sa niekto z vas tu alebo pri obrazovkach nachadza v zivotnej situacii skor na tej strane, kde tech kontroluje vas, pozyvam vas pozriet kanal FWT na YouTube
-- rozhodol som sa otvorene hovorit o tychto problemoch a zdielat na nich riesenia, ku ktorym som dospel za pomoci sebauvedomenia, za pomoci nacuvania sebe samemu
-- nastavte technologie hranice alebo stratte svoju slobodu
-- zite zivot technologickej nezavislosti, v ktorom ma technologia to spravne miesto
+[.background-color: #008000]
+
+# Po
+
+- telefón je rozšírením reality a nie základom reality, jasná hranica
+- väčšina aplikácií ma nevie zastihnúť cez upozornenia
+- plná sústredenosť na prítomný moment
+- citlivosť pre súkromie
+- ľahká migrácia nástrojov ak nejaký prestane spĺňať požiadavky
+
+---
+
+# [fit] Oplatilo sa?
 
 ---
 
