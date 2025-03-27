@@ -361,24 +361,43 @@ background-color: #57534E
 
 ![](assets/freedom-hands.png)
 
-# 3. Technologická nezávislosť: Čo u mňa funguje
+# 3. Technologická nezávislosť: Čo u mňa funguje[^2]
 
 - používanie aplikácií od rôznych poskytovateľov, nie 1 centrálny (správca hesiel, prehliadač, email...)
     - objavenie možností čo sa dá a čo už nie u daného poskytovateľa služby
 - pravidelné zálohovanie dát z online služieb (kvartálne)
 - email aliasy pre zvýšené súkromie pri vytváraní účtov
-- aplikácie poskytujúce šifrovanie na oboch koncoch (z angl. end-to-end encryption)
-- vnímanie online konverzácií ako stretnutie na ulici
+    - napr. carodejnik1234@emailalias.sk preposiela správy na samuelpitonak@email.sk
+- aplikácie poskytujúce šifrovanie na oboch koncoch (z angl. end-to-end encryption, skratka E2EE)
+- vnímanie online konverzácií ako stretnutie na ulici s človekom (výmena informácie a koniec, história zbytočne zaväzuje voči "pošte")
     - časované správy, ktoré sa automaticky vymažú
     - extrakcia informácie zo správ do systémov, ktoré plne kontrolujem
-- viaceré vrstvy pre okamžitú komunikáciu (kritické, normálne a nechcené upozornenia)
-- voľba služieb, ktoré mi umožňujú ľahko odísť (export dát, odstránenie účtu)
+- viaceré vrstvy pre digitálnu komunikáciu
+    - kritické, normálne a nechcené upozornenia
+    - vedieť kedy je vhodné byť ťažko zastihnuteľným cez appky
+- voľba služieb, ktoré mi umožňujú ľahko odísť
+    - export dát, odstránenie účtu
+    - interoperabilita dátových formátov
 - aplikácie navrhnuté tak, aby sme pri nich dlho sedeli
     - úmyselný odpor pri otváraní aplikácií (zamknutie, skrytie, uprednostniť nekomfortnú použiteľnosť)
     - trvalé odstránenie
 - premeniť "nekonečné" zoznamy obsahu na konečné
 - rozmýšľanie v 2 hlavných kontextoch (osobný čas, pracovný čas)
     - kontextové zariadenia
+
+^ slide trosku divocina www.digitalnasloboda.sk
+
+^ diverzifikacia poskytovatelov app
+
+^ lahko to spolu funguje lahko sa nechame vtiahnut dalej
+
+^ kvartalne zalohy osobnych udajov
+
+^ carodejnik1234@alias.sk vs. samuel@email.sk
+
+^ uprednostnenie open-source
+
+^ E2EE
 
 ---
 
