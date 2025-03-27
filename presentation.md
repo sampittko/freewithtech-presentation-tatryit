@@ -325,42 +325,35 @@ background-color: #57534E
 # 3. Technologická nezávislosť: Optimalizácia digitálnej stopy
 
 - internet = verejná informácia (aj keď je "za heslom" a komunikácia zariadení je šifrovaná)
-- nadobudnutie miery kontroly a súkromia
+- nadobudnutie miery kontroly a súkromia (nikdy 100%)
+    - __súkromia sa vzdávame tým, že používame internet__ 
 - zálohovanie dát
 - som produktom? (biznis modely poskytovateľov online služieb)
 - softvér s otvoreným zdrojovým kódom (z angl. open-source)
 - "domáce aplikácie" (server a vlastné hostovanie aplikácií, NAS)
 - virtuálna súkromná sieť (z angl. VPN)
-- __súkromia sa vzdávame tým, že používame internet__ 
-- snaha maximalizovať kontrolu a súkromie digitálnej stopy, nikdy 100%
 
 ^ 1. PRITONMNOST 2. SUSTREDENIE
 
 ^ internet = verejny
 
-^ obraz: fascikle papiera v skrini emaily (kontrola)
+^ kontrola obraz: fascikle papiera v skrini emaily (kontrola)
 
-^ kto vlastni moje data
+^ sukromie obraz: obalka postou ku mne pride neporusena
 
-^ biznis modely
+^ biznis modely, kto ma data
 
-^ prenositelnost dat
-
-^ ekosystem: export, delete
+^ prenositelnost dat, ekosystem export, delete
 
 ^ domaci cloud?
 
+^ VPN - kedy má význam
+
 ^ veci, ktore teraz objavujem
 
-^ vrstvenie online komunikacie
+^ dnesny default je opak, default pre digitalnu slobodu je opak dnesneho defaultu
 
-^ "feedy" na zoznamy
-
-^ KEDY, AKO, CO zdielat online
-
-^ rozmyslanie: 2 kontexty
-
-^ kontextové zariadenia
+- KEDY, AKO, CO zdielat online
 
 ---
 
@@ -371,23 +364,19 @@ background-color: #57534E
 # 3. Technologická nezávislosť: Čo u mňa funguje
 
 - zamykanie aplikácií
-- používanie správcu hesiel (stále mám služby / závislosti na očiach zmapované, ľahko prehodnotím zoznam v digitálnom súbore nástrojov)
-- pravidelné zálohovanie dát z online služieb (3-2-1)
 - používanie aplikácií od rôznych poskytovateľov (správca hesiel, prehliadač, email)
+- pravidelné zálohovanie dát z online služieb (kvartálne)
 - email aliasy
-- E2E šifrovaná komunikácia
+- aplikácie poskytujúce šifrovanie na oboch koncoch (z angl. end-to-end encryption)
 - vnímanie online konverzácií ako stretnutie na ulici
-- môžem opustiť službu? alebo to je náročné?
-- online komunikácia je dočasná
+- voľba služieb, ktoré mi umožňujú ľahko odísť (export dát, odstránenie účtu)
 - viaceré vrstvy pre okamžitú komunikáciu (kritické, normálne a nechcené upozornenia)
 - aplikácie navrhnuté tak, aby sme pri nich dlho sedeli
     - sťaženie prístupu
     - trvalé odstránenie
-- nekonečné zoznamy na konečné
-- zamknutie aplikácií
+- premeniť nekonečné zoznamy obsahu na konečné
 - rozmýšľanie v 2 hlavných kontextoch (osobný čas, pracovný čas)
-- kontextové zariadenia
-- vypnutie odporúčaní na YouTube
+    - kontextové zariadenia
 
 ---
 
