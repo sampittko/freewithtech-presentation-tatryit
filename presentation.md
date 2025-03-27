@@ -314,7 +314,7 @@ background-color: #57534E
 
 ^ archivovat, odstranit, odlozit
 
-^ sila: vizualizacia, komunikacia
+^ vypoctova sila: vizualizacia, komunikacia
 
 ^ opakované reflektovanie na nástroje (PW Manager)
 
@@ -324,27 +324,21 @@ background-color: #57534E
 
 # 3. Technologická nezávislosť: Optimalizácia digitálnej stopy
 
-- kontrola a súkromie sú priority
-- viaceré vrstvy pre okamžitú komunikáciu (kritické, normálne a nechcené upozornenia)
+- internet = verejná informácia (aj keď je "za heslom" a komunikácia zariadení je šifrovaná)
+- nadobudnutie miery kontroly a súkromia
 - zálohovanie dát
-- som produktom?
-- aplikácie navrhnuté tak, aby sme pri nich dlho sedeli
-    - sťaženie prístupu
-    - trvalé odstránenie
-- open-source, self-hosting
-- VPN
-
-- nekonečné zoznamy na konečné
-- zamknutie aplikácií
-- rozmýšľanie v 2 hlavných kontextoch (osobný čas, pracovný čas)
-- kontextové zariadenia
-- vypnutie odporúčaní na YouTube
+- som produktom? (biznis modely poskytovateľov online služieb)
+- softvér s otvoreným zdrojovým kódom (z angl. open-source)
+- "domáce aplikácie" (server a vlastné hostovanie aplikácií, NAS)
+- virtuálna súkromná sieť (z angl. VPN)
+- __súkromia sa vzdávame tým, že používame internet__ 
+- snaha maximalizovať kontrolu a súkromie digitálnej stopy, nikdy 100%
 
 ^ 1. PRITONMNOST 2. SUSTREDENIE
 
 ^ internet = verejny
 
-^ obraz fasciklov papiera v skrini (kontrola)
+^ obraz: fascikle papiera v skrini emaily (kontrola)
 
 ^ kto vlastni moje data
 
@@ -385,6 +379,15 @@ background-color: #57534E
 - vnímanie online konverzácií ako stretnutie na ulici
 - môžem opustiť službu? alebo to je náročné?
 - online komunikácia je dočasná
+- viaceré vrstvy pre okamžitú komunikáciu (kritické, normálne a nechcené upozornenia)
+- aplikácie navrhnuté tak, aby sme pri nich dlho sedeli
+    - sťaženie prístupu
+    - trvalé odstránenie
+- nekonečné zoznamy na konečné
+- zamknutie aplikácií
+- rozmýšľanie v 2 hlavných kontextoch (osobný čas, pracovný čas)
+- kontextové zariadenia
+- vypnutie odporúčaní na YouTube
 
 ---
 
