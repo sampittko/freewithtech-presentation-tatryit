@@ -214,7 +214,7 @@ background-color: #57534E
 
 ^ dennik = RESET
 
-^ ja som panom casu, nie 📱
+^ ja pan cas, nie 📱
 
 ^ prilezitost znovu ziskat svoju pozornost
 
@@ -255,21 +255,21 @@ background-color: #57534E
     - trvalé odstránenie
     - nekonečné "feeds" premeniť na konečné zoznamy
 
-^ technologie su tu, treba ich vyuzit vo svoj prospech
+^ tech treba vyuzit v prospech
 
-^ kde nakreslim deliacu ciaru?
+^ kde nakreslim del. ciaru?
 
-^ kde ma vyznam manualne pisanie a maximalne sukromie, kde je to uz otrava?
+^ kde je pisanie otrava?
 
 ^ digitalny kalendar hned ANO
 
 ^ socialne siete NIE (niektore ano, motivacne)
 
-^ nekonecne zoznamy obsahu na konecne
+^ nekonecne zoznamy na konecne
 
-^ podstatne je, aby moja pozornost bola tam kde ma byt
+^ moje pozornost #1
 
-^ amplifikovanie cloveka v 3 oblastiach, inak cau
+^ 3 oblasti, cau
 
 ---
 
@@ -310,29 +310,27 @@ hali
 
 - vypnut historiu
 
-- self-hosting
+- open-source, self-hosting
 
-^ koniec? mnohi koncia digitalnym minimalizmom ale pre mna to bol len zaciatku mojeho noveho vztahu s technologiou
+^ 1. PRITONMNOST 2. SUSTREDENIE
 
-^ vedenie dennika sposobilo, ze moja citlivost na sukromie sa zvysila
+^ internet = verejny
 
-^ vsetko, co davam na internet vnimam ako verejne
+^ obraz fasciklov papiera v skrini (kontrola)
 
-^ presun zmyslania od sustredenia ku kontrole
+^ kto vlastni moje data
 
-^ kto vlastni moje data? kolko mojich privatnynch informacii musi byt naozaj online?
+^ biznis modely
 
-^ ak online, ako firma naraba s datami? je ich biznis model zalozeny na exploitacii mojich dat?
+^ prenositelnost dat
 
-^ uzamykanie do ekosystemu: aku mieru flexibility? mozem odstranit svoj ucet? viem exportovat data?
+^ ekosystem: export, delete
 
-^ chcem investovat cas a nastavit si appku na home cloude? NAS?
+^ domaci cloud?
 
-^ toto su veci, ktore teraz objavujem
+^ veci, ktore teraz objavujem
 
-^ je to o vedomi co kontrolujem, co nie a co s tym mozem robit
-
-^ je to o tom vediet, kedy ako a co zdielat online
+^ KEDY, AKO, CO zdielat online
 
 ---
 
