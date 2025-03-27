@@ -42,7 +42,7 @@ background-color: #57534E
     - pracuješ na diaľku a z postele ideš priamo za pracovný stôl
     - ...
 
-^ POHYHB
+^ POHYB
 
 ^ cas a online zabava
 
@@ -312,15 +312,15 @@ background-color: #57534E
 
 ^ 1.krok pisat do dennika
 
-^ technologia rozsirenie, nie podstata
+^ ak nemam dennik pri sebe tak appka
 
-^ ak nemam dennik pri sebe, autowriting / offloading
+^ technologia rozsirenie, nie podstata
 
 ^ archivovat, odstranit, odlozit
 
 ^ vypoctova sila: vizualizacia, komunikacia
 
-^ opakované reflektovanie na nástroje (PW Manager)
+^ opakované reflektovanie na nástroje (spravca hesiel)
 
 ---
 
@@ -391,23 +391,17 @@ background-color: #57534E
 
 ^ slide trosku divocina www.digitalnasloboda.sk
 
-^ diverzifikacia poskytovatelov app
+^ vypichnem len zopar tipov co mne funguju
 
-^ lahko to spolu funguje lahko sa nechame vtiahnut dalej
-
-^ kvartalne zalohy osobnych udajov
+^ diverzifikacia poskytovatelov app - lahko to spolu funguje lahko sa nechame vtiahnut dalej
 
 ^ carodejnik1234@alias.sk vs. samuel@email.sk
-
-^ uprednostnenie open-source a E2EE
 
 ^ msg stretnutie na ulici
 
 ^ rozdelenie upozornení appiek na viaceré úrovne
 
 ^ služby, ktoré mi umožňujú odísť
-
-^ odpor pri otváraní appky
 
 ^ nekonečné zoznamy => konečné
 
@@ -508,7 +502,7 @@ background-color: #57534E
     # www.digitalneotroctvo.sk
         ❔ kvíz na 2 minúty — zisti kde si na spektre od digitálneho otroctva po digitálnu slobodu
     # www.digitalnasloboda.sk
-        📗 tipy — čo u mňa funguje
+        📗 tipy z prezentácie — čo u mňa funguje
         
 - _obsah v angličtine 🇬🇧_
     # www.freewithtech.substack.com
