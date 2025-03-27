@@ -118,7 +118,7 @@ background-color: #57534E
 
 - Webový vývojár zameraný na čisté a efektívne riešenia.
 - Vytváram projekty, ktoré odrážajú moje hodnoty.
-- Moje motto: _Priniesť hodnotu. Ďalšia akcia. Opakovať. Kráčať na ceste k digitálnej slobode._
+- Moje motto: _Priniesť hodnotu. Ďalšia úloha. Opakovať. Kráčať na ceste k digitálnej slobode._
 
 ![right](assets/samuel.HEIC)
 
