@@ -122,6 +122,10 @@ background-color: #57534E
 
 ![right](assets/samuel.HEIC)
 
+^ zivim sa ako webovy programator
+
+^ vytvaram projekty ako aj tento, zrkadlo hodnoty
+
 ---
 
 [.background-color: #008000]
@@ -306,7 +310,7 @@ background-color: #57534E
 - znovuvyhodnocovanie nástrojov, ktoré som si osvojil
 - správca hesiel pre zmapovanie digitálnych závislostí
 
-^ 1. krok dennik
+^ 1.krok pisat do dennika
 
 ^ technologia rozsirenie, nie podstata
 
@@ -333,27 +337,27 @@ background-color: #57534E
 - "domáce aplikácie" (server a vlastné hostovanie aplikácií, NAS)
 - virtuálna súkromná sieť (z angl. VPN)
 
-^ 1. PRITONMNOST 2. SUSTREDENIE
+^ 1.zijem so zamerom 2.som sustredeny 3.vacsia kontrola a sukromie
+
+^ KEDY, AKO, CO zdielat online
 
 ^ internet = verejny
 
-^ kontrola obraz: fascikle papiera v skrini emaily (kontrola)
+^ kontrola: fascikle papiera emailov v skrini
 
-^ sukromie obraz: obalka postou ku mne pride neporusena
+^ sukromie: obalka postou ku mne pride neporusena
 
-^ biznis modely, kto ma data
+^ som produkt?
 
-^ prenositelnost dat, ekosystem export, delete
+^ prenositelnost dat, EXPORT, DELETE
 
-^ domaci cloud?
+^ cloud DOMA?
 
-^ VPN - kedy má význam
+^ VPN - kedy má význam?
 
 ^ veci, ktore teraz objavujem
 
-^ dnesny default je opak, default pre digitalnu slobodu je opak dnesneho defaultu
-
-- KEDY, AKO, CO zdielat online
+^ default je, ze ludia toto neriesia a zodpovednost nechavaju na prevadzkovatela sluzby
 
 ---
 
@@ -374,7 +378,7 @@ background-color: #57534E
     - extrakcia informácie zo správ do systémov, ktoré plne kontrolujem
 - viaceré vrstvy pre digitálnu komunikáciu
     - kritické, normálne a nechcené upozornenia
-    - vedieť kedy je vhodné byť ťažko zastihnuteľným cez appky
+    - vedieť kedy je vhodné byť ťažko zastihnuteľným
 - voľba služieb, ktoré mi umožňujú ľahko odísť
     - export dát, odstránenie účtu
     - interoperabilita dátových formátov
@@ -395,9 +399,19 @@ background-color: #57534E
 
 ^ carodejnik1234@alias.sk vs. samuel@email.sk
 
-^ uprednostnenie open-source
+^ uprednostnenie open-source a E2EE
 
-^ E2EE
+^ msg stretnutie na ulici
+
+^ rozdelenie upozornení appiek na viaceré úrovne
+
+^ služby, ktoré mi umožňujú odísť
+
+^ odpor pri otváraní appky
+
+^ nekonečné zoznamy => konečné
+
+^ ...a viac
 
 ---
 
@@ -470,6 +484,10 @@ background-color: #57534E
 
 ---
 
+![autoplay loop](assets/umenie-na-zaver.mp4)
+
+---
+
 [.background-color: #008000]
 
 ![](assets/freedom-hands.png)
@@ -487,3 +505,7 @@ background-color: #57534E
 
 - _buďme v kontakte_:
 # www.samuelpitonak.sk
+
+^ najtazsie je prist na problem
+
+^ quiz
