@@ -240,6 +240,8 @@ background-color: #57534E
 
 [.background-color: #008000]
 
+![](assets/freedom-hands.png)
+
 # 1. Sebauvedomenie: Čo u mňa funguje
 
 - HARD STOP
@@ -283,7 +285,7 @@ background-color: #57534E
 
 ^ digitalny kalendar hned ANO (produktivita)
 
-^ socialne siete NIE/nie (znechutenie/motivacia)
+^ socialne siete nie/ano (znechutenie/motivacia)
 
 ^ moja pozornost #1
 
@@ -292,6 +294,8 @@ background-color: #57534E
 ---
 
 [.background-color: #008000]
+
+![](assets/freedom-hands.png)
 
 # 2. Digitálny minimalizmus: Čo u mňa funguje
 
@@ -368,6 +372,8 @@ background-color: #57534E
 
 [.background-color: #008000]
 
+![](assets/freedom-hands.png)
+
 # 3. Technologická nezávislosť: Čo u mňa funguje
 
 - zamykanie aplikácií
@@ -396,6 +402,8 @@ background-color: #57534E
 
 [.background-color: #008000]
 
+![](assets/freedom-hands.png)
+
 # Po
 
 - čo to je "doomscrolling"?
@@ -415,7 +423,43 @@ background-color: #57534E
 
 ![](assets/freedom-hands.png)
 
-# Pridaj sa na cestu k digitálnej slobode
+# [fit] 1. Sebauvedomenie
+
+# [fit] Nie technológii
+
+# [fit] áno sebe
+
+---
+
+[.background-color: #008000]
+
+![](assets/freedom-hands.png)
+
+# [fit] 2. Digitálny minimalizmus
+
+# [fit] Appky ako rozšírenie života
+
+# [fit] Nie podstata
+
+---
+
+[.background-color: #008000]
+
+![](assets/freedom-hands.png)
+
+# [fit] 3. Technologická nezávislosť
+
+# [fit] Prevzatie kontroly
+
+# [fit] nad svojou digitálnou stopou
+
+---
+
+[.background-color: #008000]
+
+![](assets/freedom-hands.png)
+
+# [fit] Pridaj sa na cestu k digitálnej slobode
 
 - _obsah v slovenčine:_
 # www.digitalneotroctvo.sk
