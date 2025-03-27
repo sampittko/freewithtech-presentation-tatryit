@@ -215,7 +215,7 @@ background-color: #57534E
 
 ![autoplay loop left](assets/reset-button-video.mp4)
 
-# Pero a papier ako nový začiatok
+# 1. Pero a papier ako nový začiatok
 
 - vedenie denníka ako stlačenie tlačidla __RESET__ pre môj vzťah s technológiou 📝
 - 💯% pozornosti v mojich rukách
@@ -240,7 +240,7 @@ background-color: #57534E
 
 [.background-color: #008000]
 
-# Čo u mňa funguje: Sebauvedomenie (z angl. Self-Awareness)
+# Sebauvedomenie: Čo u mňa funguje
 
 - HARD STOP
     - odstránenie nekritických aplikácií a na nejaký čas si nechať len telefónne číslo a email ako jediné kontaktné body
@@ -268,7 +268,7 @@ background-color: #57534E
 
 ![autoplay loop right](assets/incremental-adoption-video.mp4)
 
-# Postupné znovuosvojenie digitálnych nástrojov
+# 2. Postupné znovuosvojenie digitálnych nástrojov
 
 - denník niekedy prináša zbytočné trenie, technológie patria do nášho života
 - príležitosť nakresliť jasnú čiaru medzi sebou a digitálnym priestorom
@@ -296,16 +296,13 @@ background-color: #57534E
 
 [.background-color: #008000]
 
-# Čo u mňa funguje: Digitálny minimalizmus
+# Digitálny minimalizmus: Čo u mňa funguje
 
 - vždy začínam písaním do denníka
-- dostatočné obmedzenie sociálnych sietí
 - rozmýšľanie v 2 hlavných kontextoch (osobný čas, pracovný čas)
 - kontextové zariadenia
 - sledovanie svojej energie počas dňa mi umožnilo povedať nie mnohým online nástrojom, ktoré ma ťahali
-- 0 inbox všade
-- viaceré vrstvy pre okamžitú komunikáciu (kritické, normálne a nechcené upozornenia)
-- nekonečné zoznamy na konečné
+- 0 inbox všade (odložiť, archivovať, odstrániť)
 
 ^ 1. krok dennik
 
@@ -319,10 +316,6 @@ background-color: #57534E
 
 ^ archivovat, odstranit, odlozit
 
-^ vrstvenie online komunikacie
-
-^ "feedy" na zoznamy
-
 ---
 
 ![autoplay loop left](assets/tech-independence-video.mp4)
@@ -330,20 +323,10 @@ background-color: #57534E
 # Optimalizácia digitálnej stopy
 
 - digitálny minimalizmus ako stupienok k technologickej nezávislosti
-
-- kontrola
-    - zálohy dát v službách
-    - uzamykanie sa do ekosystému
-
-- súkromie
-    - VPN
-    - biznis modely poskytovateľov služieb
-    - alternatívne aplikácie
-
-- zrusit infinite scroll cez watch later
-
+- viaceré vrstvy pre okamžitú komunikáciu (kritické, normálne a nechcené upozornenia)
+- nekonečné zoznamy na konečné
+- kontrola a súkromie ako priority
 - zamknut appku
-
 - vypnut historiu
 
 - open-source, self-hosting
@@ -366,14 +349,19 @@ background-color: #57534E
 
 ^ veci, ktore teraz objavujem
 
+^ vrstvenie online komunikacie
+
+^ "feedy" na zoznamy
+
 ^ KEDY, AKO, CO zdielat online
 
 ---
 
 [.background-color: #008000]
 
-# Čo u mňa funguje: Technologická nezávislosť
+# Technologická nezávislosť: Čo u mňa funguje
 
+- zamykanie aplikácií
 - používanie správcu hesiel (stále mám služby / závislosti na očiach zmapované, ľahko prehodnotím zoznam v digitálnom súbore nástrojov)
 - pravidelné zálohovanie dát z online služieb (3-2-1)
 - používanie aplikácií od rôznych poskytovateľov (správca hesiel, prehliadač, email)
