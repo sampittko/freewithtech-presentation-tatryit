@@ -366,8 +366,8 @@ background-color: #57534E
 - používanie aplikácií od rôznych poskytovateľov, nie 1 centrálny (správca hesiel, prehliadač, email...)
     - objavenie možností čo sa dá a čo už nie u daného poskytovateľa služby
 - pravidelné zálohovanie dát z online služieb (kvartálne)
-- email aliasy pre zvýšené súkromie pri vytváraní účtov
-    - napr. carodejnik1234@emailalias.sk preposiela správy na samuelpitonak@email.sk
+- email aliasy pre zvýšené súkromie pri vytváraní online účtov
+    - napr. carodejnik1234@passinbox.com preposiela správy na kontakt@samuelpitonak.sk
 - aplikácie poskytujúce šifrovanie na oboch koncoch (z angl. end-to-end encryption, skratka E2EE)
 - vnímanie online konverzácií ako stretnutie na ulici s človekom (výmena informácie a koniec, história zbytočne zaväzuje voči "pošte")
     - časované správy, ktoré sa automaticky vymažú
@@ -410,6 +410,7 @@ background-color: #57534E
 - "doomscrolling"
 - otváranie aplikácií bez konkrétneho cieľa
 - používanie predvolených aplikácií a nastavení
+- ...
 
 ---
 
@@ -425,6 +426,7 @@ background-color: #57534E
 - plná sústredenosť na prítomný moment
 - citlivosť pre súkromie
 - ľahká migrácia nástrojov ak nejaký prestane spĺňať požiadavky
+- ...
 
 ---
 
