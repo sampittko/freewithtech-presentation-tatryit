@@ -498,13 +498,13 @@ background-color: #57534E
 
 # [fit] Pridaj sa na cestu k digitálnej slobode
 
-- _obsah v slovenčine:_
+- _obsah v slovenčine 🇸🇰_
     # www.digitalneotroctvo.sk
         ❔ kvíz na 2 minúty — zisti kde si na spektre od digitálneho otroctva po digitálnu slobodu
     # www.digitalnasloboda.sk
-        📗 tipy — čo u mňa fungovalo
+        📗 tipy — čo u mňa funguje
         
-- _obsah v angličtine:_
+- _obsah v angličtine 🇬🇧_
     # www.freewithtech.substack.com
         📄 nový blog každý štvrtok
     # www.youtube.com/@FreeWithTech
@@ -512,9 +512,4 @@ background-color: #57534E
     # www.freewith.tech
         ✍🏻 podpíš Manifest k digitálnej slobode
 
-- _buďme v kontakte_:
-# www.samuelpitonak.sk
-
-^ najtazsie je prist na problem
-
-^ quiz
+^ otazka na zaver: chces mat aj ty svoje technologie pod kontrolou?
