@@ -492,11 +492,19 @@ background-color: #57534E
 
 ---
 
+![fit](assets/substack.png)
+
+---
+
+![fit](assets/youtube.png)
+
+---
+
 [.background-color: #008000]
 
 ![](assets/freedom-hands.png)
 
-# [fit] Pridaj sa na cestu k digitálnej slobode
+# [fit] Vykroč ešte dnes na cestu k digitálnej slobode
 
 - _obsah v slovenčine 🇸🇰_
     # www.digitalneotroctvo.sk
