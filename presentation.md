@@ -42,6 +42,12 @@ background-color: #57534E
     - pracuješ na diaľku a z postele ideš priamo za pracovný stôl
     - ...
 
+^ POHYHB
+
+^ cas a online zabava
+
+^ praca doma a rano rovno za stol
+
 ---
 
 [.background-color: #FF0000]
@@ -55,6 +61,12 @@ background-color: #57534E
     - nemáš dostatočné sústredenie a každú chvíľu potrebuješ strelu dopamínu cez sociálne siete lebo práca nedáva dostatočný význam
     - ...
 
+^ PRACA
+
+^ nerelevantne oznamenia
+
+^ dopamine shot soc. siete
+
 ---
 
 [.background-color: #FF0000]
@@ -65,8 +77,14 @@ background-color: #57534E
 
 - **technológie negatívne vplývajú na rozvoj tvojich vzťahov**:
     - vypisuješ si s ľuďmi namiesto toho aby si sa s nimi stretol
-    - zverejňuješ len pozitívnu stránku svojho života
+    - radšej žiješ vo svojej bubline komfortu za obrazovkou ako ideš von
     - ...
+
+^ VZTAHY
+
+^ vypisovanie, nie stretnutie
+
+^ bublina komfortu
 
 ---
 
@@ -143,8 +161,6 @@ background-color: #57534E
 
 ^ digitálny priestor sa stal #1
 
-^ 6-10 hodín/deň po škole
-
 ^ najskôr hry
 
 ^ grafický dizajn a programovanie
@@ -173,15 +189,11 @@ background-color: #57534E
 
 ^ kalkulácia: 1/20 času stráveného hraním hier
 
-^ samozrejme, ak máte sen stať sa profesionálnym hráčom v CSku tak to inak nejde
+^ daň: “organizovanost”
 
-^ odstup času -> vytriezvenie
+^ daň: “spojenie”
 
-^ dlh: “organizovanost”
-
-^ dlh: “spojenie”
-
-^ dlh: “informovanost”
+^ daň: “informovanost”
 
 ---
 
@@ -238,7 +250,21 @@ background-color: #57534E
         - pohľad na svoj život z hľadiska rokov a mesiacov, nie len dní
         - uvedomenie si cyklov (deň, týždeň, mesiac)
 - zaznamenávanie dôležitých návykov na dennej báze
-- priznať si svoje pocity viackrát do dňa
+- pomenovanie pocitov
+
+^ nekriticke appky
+
+^ email, cislo na nejaky cas
+
+^ dennik mimo tech
+
+^ autowriting / offloading
+
+^ pravid. reflexia
+
+^ zaznamenavanie navykov na dennej baze
+
+^ pomenovanie pocitov
 
 ---
 
@@ -265,8 +291,6 @@ background-color: #57534E
 
 ^ socialne siete NIE (niektore ano, motivacne)
 
-^ nekonecne zoznamy na konecne
-
 ^ moje pozornost #1
 
 ^ 3 oblasti, cau
@@ -278,14 +302,22 @@ background-color: #57534E
 # Čo u mňa funguje: Digitálny minimalizmus
 
 - vždy začínam písaním do denníka
-- nikdy svoje myšlienky nepísať do digitálu, len offloading (viditeľná hranica medzi osobným priestorom a prácou / zábavou)
-- zrušil som si niektoré sociálne siete, ostatné som dostatočne obmedzil
+- dostatočné obmedzenie sociálnych sietí
 - rozmýšľanie v 2 hlavných kontextoch (osobný čas, pracovný čas)
-- sledovanie svojej energie počas dňa mi umožnilo povedať nie mnohým online nástrojom, ktoré ma ťa
-hali
-- trenie má veľký význam, optimalizácia pre rýchlosť tu nie je nápomocná
+- kontextové zariadenia
+- sledovanie svojej energie počas dňa mi umožnilo povedať nie mnohým online nástrojom, ktoré ma ťahali
+- trenie má veľký význam, optimalizácia pre rýchlosť nie je vždy nápomocná
 - 0 inbox všade
 - viaceré vrstvy pre okamžitú komunikáciu (kritické, normálne a nechcené upozornenia)
+- nekonečné zoznamy na konečné
+
+^ 1. krok dennik
+
+^ mindful soc. siete
+
+^ 2 kontexty
+
+^ kontextové zariadenia a farby LED
 
 ---
 
@@ -344,7 +376,6 @@ hali
 - email aliasy
 - E2E šifrovaná komunikácia
 - vnímanie online konverzácií ako stretnutie na ulici
-- kontextové zariadenia a farby LED
 - môžem opustiť službu? alebo to je náročné?
 - online komunikácia je dočasná
 
