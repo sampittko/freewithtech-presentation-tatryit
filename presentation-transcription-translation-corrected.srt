@@ -36,35 +36,35 @@ Welcome to another Tatry IT meetup.
 
 10
 00:00:20,000 --> 00:00:22,000
-Tatry IT
+Tatry IT—
 
 11
 00:00:22,000 --> 00:00:26,000
-I always say that it is a name that is not entirely correct,
+I always say it's a name that's not entirely accurate,
 
 12
 00:00:26,000 --> 00:00:28,000
-because as you can see today,
+because, as you can see today,
 
 13
 00:00:28,000 --> 00:00:30,000
-we are not only talking about IT topics,
+we're not only talking about IT topics,
 
 14
 00:00:30,000 --> 00:00:32,000
-but also about topics that are not entirely IT,
+but also about topics that aren't entirely IT,
 
 15
 00:00:32,000 --> 00:00:34,000
-that are around IT.
+that are more around IT.
 
 16
 00:00:34,000 --> 00:00:38,000
-It is more of a technical, scientific,
+It's more of a technical, scientific—
 
 17
 00:00:38,000 --> 00:00:41,000
-we can call it lifestyle,
+you could call it lifestyle—
 
 18
 00:00:41,000 --> 00:00:43,000
@@ -72,43 +72,43 @@ self-realization, productivity.
 
 19
 00:00:43,000 --> 00:00:46,000
-So everything that is related to the fact
+So, everything that's related to the idea
 
 20
 00:00:46,000 --> 00:00:49,000
-that a person can somehow move,
+that a person can somehow move forward,
 
 21
 00:00:49,000 --> 00:00:51,000
-educate and so on.
+educate themselves, and so on.
 
 22
 00:00:51,000 --> 00:00:53,000
-I am saying this because I see people here
+I'm saying this because I see people here
 
 23
 00:00:53,000 --> 00:00:55,000
-whom I have not yet seen so far.
+I haven’t seen before.
 
 24
 00:00:55,000 --> 00:00:57,000
-So I am glad that anyone who is new here
+So I'm glad that anyone new here
 
 25
 00:00:57,000 --> 00:00:58,000
-has come between us.
+has joined us.
 
 26
 00:00:58,000 --> 00:01:00,000
-We met in such a standard number.
+We usually meet in a pretty standard number—
 
 27
 00:01:00,000 --> 00:01:02,000
-Of those 10 to 15 people,
+around 10 to 15 people.
 
 28
 00:01:02,000 --> 00:01:04,000
-it is usually such a perfect number
+That's usually a perfect number
 
 29
 00:01:04,000 --> 00:01:06,000
@@ -116,1087 +116,1087 @@ for the city of Poprad,
 
 30
 00:01:06,000 --> 00:01:08,000
-since this region is neither big
+since the region isn’t very large,
 
 31
 00:01:08,000 --> 00:01:10,000
-nor the city is big.
+and the city isn’t either.
 
 32
 00:01:10,000 --> 00:01:12,000
-And if you think that there are few of us,
+And if you think there are only a few of us,
 
 33
 00:01:12,000 --> 00:01:14,000
-you don't have to worry at all,
+you don’t have to worry at all,
 
 34
 00:01:14,000 --> 00:01:16,000
-because even in other larger cities
+because even in bigger cities,
 
 35
 00:01:16,000 --> 00:01:18,000
-there is a standard number of 10, 15.
+the standard number is still 10 or 15.
 
 36
 00:01:18,000 --> 00:01:20,000
-If someone is interested,
+If someone interesting comes,
 
 37
 00:01:20,000 --> 00:01:22,000
-there can be 25 people or even 50.
+you might get 25 people, even 50.
 
 38
 00:01:22,000 --> 00:01:25,000
-But today we already have the 35th meetup.
-
-39
-00:01:25,000 --> 00:01:27,000
-I will give this slide now
-
-40
-00:01:27,000 --> 00:01:29,000
-so that I can remember it.
-
-41
-00:01:29,000 --> 00:01:31,000
-So we have already met 35 times
-
-42
-00:01:31,000 --> 00:01:33,000
-here in Coworking Poprad.
-
-43
-00:01:33,000 --> 00:01:35,000
-We have not been anywhere else so far.
-
-44
-00:01:35,000 --> 00:01:37,000
-Thank you, Tomáš, that we can be here.
-
-45
-00:01:37,000 --> 00:01:39,000
-Tomáš is in the back and he is directing it here.
-
-46
-00:01:39,000 --> 00:01:41,000
-Today's topic, as I mentioned,
-
-47
-00:01:41,000 --> 00:01:44,000
-will not be direct or purely technical.
-
-48
-00:01:44,000 --> 00:01:47,000
-IT will be more about productivity,
-
-49
-00:01:47,000 --> 00:01:49,000
-about self-development.
-
-50
-00:01:49,000 --> 00:01:51,000
-I am very happy about the opportunity
-
-51
-00:01:51,000 --> 00:01:53,000
-because despite the fact that
-
-52
-00:01:53,000 --> 00:01:55,000
-I have been trying to be
-
-53
-00:01:55,000 --> 00:01:57,000
-either productive
-
-54
-00:01:57,000 --> 00:01:59,000
-or not dependent on technology,
-
-55
-00:01:59,000 --> 00:02:01,000
-but rather have technology
-
-56
-00:02:01,000 --> 00:02:03,000
-as my tool,
-
-57
-00:02:03,000 --> 00:02:05,000
-a tool to serve me,
-
-58
-00:02:05,000 --> 00:02:07,000
-it is difficult.
-
-59
-00:02:07,000 --> 00:02:09,000
-So I am curious what I will learn today.
-
-60
-00:02:09,000 --> 00:02:11,000
-I will not introduce myself
-
-61
-00:02:11,000 --> 00:02:13,000
-because I will introduce myself in a moment.
-
-62
-00:02:13,000 --> 00:02:15,000
-So this is our presenter.
-
-63
-00:02:15,000 --> 00:02:17,000
-And if you have any questions,
-
-64
-00:02:17,000 --> 00:02:19,000
-I assume you can ask them directly
-
-65
-00:02:19,000 --> 00:02:21,000
-or you can leave them for later.
-
-66
-00:02:21,000 --> 00:02:23,000
-Or you can use Slido
-
-67
-00:02:23,000 --> 00:02:25,000
-with the hashtag TatriIT.
-
-68
-00:02:25,000 --> 00:02:27,000
-So if you know how to use Slido
-
-69
-00:02:27,000 --> 00:02:29,000
-and you do not want to interrupt
-
-70
-00:02:29,000 --> 00:02:31,000
-and you want to ask a question
-
-71
-00:02:31,000 --> 00:02:33,000
-and you want to ask at the end,
-
-72
-00:02:33,000 --> 00:02:35,000
-feel free to use Slido.
-
-73
-00:02:35,000 --> 00:02:37,000
-We will take a look at it.
-
-74
-00:02:37,000 --> 00:02:39,000
-Those of you who are not in our newsletter,
-
-75
-00:02:39,000 --> 00:02:41,000
-I will repeat it,
-
-76
-00:02:41,000 --> 00:02:43,000
-you can sign up for the newsletter.
-
-77
-00:02:43,000 --> 00:02:45,000
-Just go to www.tatriit.sk
-
-78
-00:02:45,000 --> 00:02:47,000
-and if you wait a moment,
-
-79
-00:02:47,000 --> 00:02:49,000
-maybe 5 seconds,
-
-80
-00:02:49,000 --> 00:02:51,000
-a pop-up will pop up
-
-81
-00:02:51,000 --> 00:02:53,000
-and you can write your name and email.
-
-82
-00:02:53,000 --> 00:02:55,000
-And you will be notified
-
-83
-00:02:55,000 --> 00:02:57,000
-when there will be a new meetup.
-
-84
-00:02:57,000 --> 00:02:59,000
-And in connection with that,
-
-85
-00:02:59,000 --> 00:03:01,000
-we have three more terms for the next meetup
-
-86
-00:03:01,000 --> 00:03:03,000
-until June.
-
-87
-00:03:03,000 --> 00:03:05,000
-That means that we will meet
-
-88
-00:03:05,000 --> 00:03:07,000
-the closest after this meetup in April.
-
-89
-00:03:07,000 --> 00:03:09,000
-Then we will meet in May
-
-90
-00:03:09,000 --> 00:03:11,000
-and even in June.
-
-91
-00:03:11,000 --> 00:03:13,000
-That term is not yet completely clear.
-
-92
-00:03:13,000 --> 00:03:15,000
-But we can tell you
-
-93
-00:03:15,000 --> 00:03:17,000
-that there will be one non-technical theme,
-
-94
-00:03:17,000 --> 00:03:19,000
-one very practical technical theme
-
-95
-00:03:19,000 --> 00:03:21,000
-and then the last one will be very technical.
-
-96
-00:03:21,000 --> 00:03:23,000
-So that's okay,
-
-97
-00:03:23,000 --> 00:03:25,000
-we will meet on the 24th.
-
-98
-00:03:25,000 --> 00:03:27,000
-On the 24th,
-
-99
-00:03:27,000 --> 00:03:29,000
-Miki Plichta R
-
-100
-00:03:29,000 --> 00:03:31,000
-will talk to us
-
-101
-00:03:31,000 --> 00:03:33,000
-about LinkedIn.
-
-102
-00:03:33,000 --> 00:03:35,000
-How to prepare your LinkedIn account.
-
-103
-00:03:35,000 --> 00:03:37,000
-It is not enough
-
-104
-00:03:37,000 --> 00:03:39,000
-to write a CV,
-
-105
-00:03:39,000 --> 00:03:41,000
-you have to present yourself
-
-106
-00:03:41,000 --> 00:03:43,000
-on social networks.
-
-107
-00:03:43,000 --> 00:03:45,000
-So Miki Plichta will come to us
-
-108
-00:03:45,000 --> 00:03:47,000
-and talk about LinkedIn profiles
-
-109
-00:03:47,000 --> 00:03:49,000
-for technical people
-
-110
-00:03:49,000 --> 00:03:51,000
-or for scientists.
-
-111
-00:03:51,000 --> 00:03:53,000
-Let me know.
-
-112
-00:03:53,000 --> 00:03:55,000
-Everyone needs this kind of information.
-
-113
-00:03:57,000 --> 00:03:59,000
-Let's get to our topic today.
-
-114
-00:03:59,000 --> 00:04:01,000
-Samo, welcome to us
-
-115
-00:04:01,000 --> 00:04:03,000
-for the second time.
-
-116
-00:04:03,000 --> 00:04:05,000
-It's good to see you there.
-
-117
-00:04:05,000 --> 00:04:07,000
-So you are not a newbie,
-
-118
-00:04:07,000 --> 00:04:09,000
-but you are here
-
-119
-00:04:09,000 --> 00:04:11,000
-all the time.
-
-120
-00:04:11,000 --> 00:04:13,000
-So come on
-
-121
-00:04:13,000 --> 00:04:15,000
-and tell us
-
-122
-00:04:15,000 --> 00:04:17,000
-what will be your topic
-
-123
-00:04:17,000 --> 00:04:19,000
-and your stage.
-
-124
-00:04:19,000 --> 00:04:21,000
-Thank you.
-
-125
-00:04:21,000 --> 00:04:23,000
-Let's start this presentation.
-
-126
-00:04:41,000 --> 00:04:43,000
-It was supposed to be a video,
-
-127
-00:04:43,000 --> 00:04:45,000
-but you don't notice it.
-
-128
-00:04:47,000 --> 00:04:49,000
-There should be more of them,
-
-129
-00:04:49,000 --> 00:04:51,000
-but let's go.
-
-130
-00:04:51,000 --> 00:04:53,000
-You are a digital child.
-
-131
-00:04:53,000 --> 00:04:55,000
-This is something
-
-132
-00:04:55,000 --> 00:04:57,000
-I had to admit
-
-133
-00:04:57,000 --> 00:04:59,000
-roughly two years ago,
-
-134
-00:04:59,000 --> 00:05:01,000
-more than two years ago.
-
-135
-00:05:01,000 --> 00:05:03,000
-It was the reality
-
-136
-00:05:03,000 --> 00:05:05,000
-with which I met
-
-137
-00:05:05,000 --> 00:05:07,000
-on my journey of life.
-
-138
-00:05:07,000 --> 00:05:09,000
-And it looked
-
-139
-00:05:09,000 --> 00:05:11,000
-like this.
-
-140
-00:05:11,000 --> 00:05:13,000
-Imagine that the camera
-
-141
-00:05:13,000 --> 00:05:15,000
-is moving now on this video
-
-142
-00:05:15,000 --> 00:05:17,000
-and shows you the whole room,
-
-143
-00:05:17,000 --> 00:05:19,000
-the computer,
-
-144
-00:05:19,000 --> 00:05:21,000
-the screen.
-
-145
-00:05:21,000 --> 00:05:23,000
-And this is what it looks like
-
-146
-00:05:23,000 --> 00:05:25,000
-when you are a digital child.
-
-147
-00:05:25,000 --> 00:05:27,000
-You simply don't see the border
-
-148
-00:05:27,000 --> 00:05:29,000
-between the digital world
-
-149
-00:05:29,000 --> 00:05:31,000
-and the real world.
-
-150
-00:05:31,000 --> 00:05:33,000
-Everything is merged into one.
-
-151
-00:05:33,000 --> 00:05:35,000
-You are a digital child
-
-152
-00:05:35,000 --> 00:05:37,000
-when technology is in your way
-
-153
-00:05:37,000 --> 00:05:39,000
-to movement.
-
-154
-00:05:39,000 --> 00:05:41,000
-You spend an enormous amount
-
-155
-00:05:41,000 --> 00:05:43,000
-of online content consumption.
-
-156
-00:05:43,000 --> 00:05:45,000
-It can be on any social network.
-
-157
-00:05:45,000 --> 00:05:47,000
-It can be a TV series.
-
-158
-00:05:47,000 --> 00:05:49,000
-You work remotely
-
-159
-00:05:49,000 --> 00:05:51,000
-and go straight for the screen
-
-160
-00:05:51,000 --> 00:05:53,000
-from the bed.
-
-161
-00:05:53,000 --> 00:05:55,000
-You are a digital child
-
-162
-00:05:55,000 --> 00:05:57,000
-when technologies
-
-163
-00:05:57,000 --> 00:05:59,000
-do not help you
-
-164
-00:05:59,000 --> 00:06:01,000
-to be fully concentrated in your work.
-
-165
-00:06:01,000 --> 00:06:03,000
-You are interrupted by irrelevant notifications
-
-166
-00:06:03,000 --> 00:06:05,000
-at any time during your work.
-
-167
-00:06:05,000 --> 00:06:07,000
-You don't have enough concentration
-
-168
-00:06:07,000 --> 00:06:09,000
-and every moment you need
-
-169
-00:06:09,000 --> 00:06:11,000
-a dopamine shot
-
-170
-00:06:11,000 --> 00:06:13,000
-to find something more interesting
-
-171
-00:06:13,000 --> 00:06:15,000
-than your work.
-
-172
-00:06:15,000 --> 00:06:17,000
-I don't know.
-
-173
-00:06:17,000 --> 00:06:19,000
-You are a digital child
-
-174
-00:06:19,000 --> 00:06:21,000
-when technologies have a negative impact
-
-175
-00:06:21,000 --> 00:06:23,000
-on your relationship development.
-
-176
-00:06:23,000 --> 00:06:25,000
-Instead of meeting people
-
-177
-00:06:25,000 --> 00:06:27,000
-in person,
-
-178
-00:06:27,000 --> 00:06:29,000
-you prefer to live
-
-179
-00:06:29,000 --> 00:06:31,000
-in your bubble behind a screen
-
-180
-00:06:31,000 --> 00:06:33,000
-and simply don't want
-
-181
-00:06:33,000 --> 00:06:35,000
-to confront yourself
-
-182
-00:06:35,000 --> 00:06:37,000
-through the people you meet.
-
-183
-00:06:37,000 --> 00:06:39,000
-Feel free to post
-
-184
-00:06:39,000 --> 00:06:41,000
-as you see fit.
-
-185
-00:06:41,000 --> 00:06:43,000
-Simply, technology
-
-186
-00:06:43,000 --> 00:06:45,000
-prevents you from living
-
-187
-00:06:45,000 --> 00:06:47,000
-fully in your present moment.
-
-188
-00:06:47,000 --> 00:06:49,000
-This is something I grew up with
-
-189
-00:06:49,000 --> 00:06:51,000
-in my life.
-
-190
-00:06:51,000 --> 00:06:53,000
-I needed to make a change.
-
-191
-00:06:53,000 --> 00:06:55,000
-I needed to transform.
-
-192
-00:06:55,000 --> 00:06:57,000
-This is my way
-
-193
-00:06:57,000 --> 00:06:59,000
-to digital freedom.
-
-194
-00:06:59,000 --> 00:07:01,000
-Or how I got
-
-195
-00:07:01,000 --> 00:07:03,000
-technology under control in my life.
-
-196
-00:07:05,000 --> 00:07:07,000
-Imagine this.
-
-197
-00:07:07,000 --> 00:07:09,000
-It was supposed to be a video.
-
-198
-00:07:09,000 --> 00:07:11,000
-It is simply a man
-
-199
-00:07:11,000 --> 00:07:13,000
-who is connected to cables
-
-200
-00:07:13,000 --> 00:07:15,000
-that represent
-
-201
-00:07:15,000 --> 00:07:17,000
-various applications we use.
-
-202
-00:07:17,000 --> 00:07:19,000
-To go through
-
-203
-00:07:19,000 --> 00:07:21,000
-transformation,
-
-204
-00:07:21,000 --> 00:07:23,000
-the technologies
-
-205
-00:07:23,000 --> 00:07:25,000
-start to serve the man
-
-206
-00:07:25,000 --> 00:07:27,000
-and not the man
-
-207
-00:07:27,000 --> 00:07:29,000
-who serves the technology
-
-208
-00:07:29,000 --> 00:07:31,000
-as it is sometimes in our lives.
-
-209
-00:07:31,000 --> 00:07:33,000
-In my case, it was certainly so.
-
-210
-00:07:33,000 --> 00:07:35,000
-Before I start
-
-211
-00:07:35,000 --> 00:07:37,000
-with my story,
-
-212
-00:07:37,000 --> 00:07:39,000
-I will talk about myself.
-
-213
-00:07:39,000 --> 00:07:41,000
-I am a web programmer
-
-214
-00:07:41,000 --> 00:07:43,000
-and I make projects
-
-215
-00:07:43,000 --> 00:07:45,000
-that reflect my values.
-
-216
-00:07:45,000 --> 00:07:47,000
-This is my way to digital freedom
-
-217
-00:07:47,000 --> 00:07:49,000
-or digital freedom
-
-218
-00:07:49,000 --> 00:07:51,000
-if we translate it from English.
-
-219
-00:07:51,000 --> 00:07:53,000
-Free with tech.
-
-220
-00:07:53,000 --> 00:07:55,000
-Let's get started.
-
-221
-00:07:55,000 --> 00:07:57,000
-Get ready
-
-222
-00:07:57,000 --> 00:07:59,000
-because this will be a tough ride.
-
-223
-00:08:01,000 --> 00:08:03,000
-Digital native.
-
-224
-00:08:03,000 --> 00:08:05,000
-What is this term?
-
-225
-00:08:05,000 --> 00:08:07,000
-I am a man who grew up
-
-226
-00:08:07,000 --> 00:08:09,000
-with a phone in his hand.
-
-227
-00:08:09,000 --> 00:08:11,000
-At that time, various communication tools
-
-228
-00:08:11,000 --> 00:08:13,000
-such as Pockets,
-
-229
-00:08:13,000 --> 00:08:15,000
-Facebook,
-
-230
-00:08:15,000 --> 00:08:17,000
-I installed it on my phone.
-
-231
-00:08:17,000 --> 00:08:19,000
-I was among the first
-
-232
-00:08:19,000 --> 00:08:21,000
-million users.
-
-233
-00:08:21,000 --> 00:08:23,000
-I had my first phone in my hands
-
-234
-00:08:23,000 --> 00:08:25,000
-in the third year of primary school.
-
-235
-00:08:25,000 --> 00:08:27,000
-This is a bit of a misunderstanding
-
-236
-00:08:27,000 --> 00:08:29,000
-of my context.
-
-237
-00:08:29,000 --> 00:08:31,000
-I continue my education.
-
-238
-00:08:31,000 --> 00:08:33,000
-I thank my parents
-
-239
-00:08:33,000 --> 00:08:35,000
-that they really led me to active movement.
-
-240
-00:08:35,000 --> 00:08:37,000
-And until today it happened to me
-
-241
-00:08:37,000 --> 00:08:39,000
-as you can see in these photos
-
-242
-00:08:39,000 --> 00:08:41,000
-with my friends in the mountains
-
-243
-00:08:41,000 --> 00:08:43,000
-and on various bicycle routes.
-
-244
-00:08:43,000 --> 00:08:45,000
-However, the reality was such
-
-245
-00:08:45,000 --> 00:08:47,000
-that technologies in my life
-
-246
-00:08:47,000 --> 00:08:49,000
-took the first place
-
-247
-00:08:49,000 --> 00:08:51,000
-after some time.
-
-248
-00:08:51,000 --> 00:08:53,000
-Simply yes.
-
-249
-00:08:53,000 --> 00:08:55,000
-I went to trainings,
-
-250
-00:08:55,000 --> 00:08:57,000
-I did sports,
-
-251
-00:08:57,000 --> 00:08:59,000
-I tried to listen to my parents.
-
-252
-00:08:59,000 --> 00:09:01,000
-Let's say it was like that at the time.
-
-253
-00:09:01,000 --> 00:09:03,000
-Because they advised me
-
-254
-00:09:03,000 --> 00:09:05,000
-not to sit so long
-
-255
-00:09:05,000 --> 00:09:07,000
-behind the computer.
-
-256
-00:09:07,000 --> 00:09:09,000
-Of course, we didn't know
-
-257
-00:09:09,000 --> 00:09:11,000
-what was connected to it.
-
-258
-00:09:11,000 --> 00:09:13,000
-Because it was a new world
-
-259
-00:09:13,000 --> 00:09:15,000
-of games.
-
-260
-00:09:15,000 --> 00:09:17,000
-Imagine the picture
-
-261
-00:09:17,000 --> 00:09:19,000
-where there is a computer game
-
-262
-00:09:19,000 --> 00:09:21,000
-on the screen
-
-263
-00:09:21,000 --> 00:09:23,000
-and some kind of digital tool
-
-264
-00:09:23,000 --> 00:09:25,000
-where I create graphics
-
-265
-00:09:25,000 --> 00:09:27,000
-and code, programs.
-
-266
-00:09:27,000 --> 00:09:29,000
-Just like this
-
-267
-00:09:29,000 --> 00:09:31,000
-my journey started.
-
-268
-00:09:31,000 --> 00:09:33,000
-First it was a lot of games
-
-269
-00:09:33,000 --> 00:09:35,000
-then it was the end of primary school
-
-270
-00:09:35,000 --> 00:09:37,000
-graphic design and what not.
-
-271
-00:09:37,000 --> 00:09:39,000
-But they were not the same
-
-272
-00:09:39,000 --> 00:09:41,000
-in the world.
-
-273
-00:09:41,000 --> 00:09:43,000
-But the boundaries
-
-274
-00:09:43,000 --> 00:09:48,000
-Simply, the digital space was gaining me more and more, that was the reality.
-
-275
-00:09:49,000 --> 00:09:56,000
-Here you can imagine, the boy has the digital glasses on him and the real world is fighting with the digital world.
-
-276
-00:09:56,000 --> 00:09:59,000
-The switching of these two worlds there is simple.
-
-277
-00:10:00,000 --> 00:10:03,000
-And the digital one was gradually winning in my life.
-
-278
-00:10:04,000 --> 00:10:10,000
-Try to guess, maybe, what color represents, when it comes to time allocation, in a specific day,
-
-279
-00:10:10,000 --> 00:10:17,000
-maybe in my age, when I was in high school, what color represents the time behind the screen, in your opinion?
-
-280
-00:10:21,000 --> 00:10:22,000
-Any other tips?
-
-281
-00:10:23,000 --> 00:10:25,000
-All of them? That would be a good extreme, then.
-
-282
-00:10:26,000 --> 00:10:30,000
-I was the only one who got to that point, even though I was programming 24 hours a day.
-
-283
-00:10:39,000 --> 00:10:40,000
-Thank you for the tips.
-
-284
-00:10:41,000 --> 00:10:42,000
-You were very close.
-
-285
-00:10:43,000 --> 00:10:47,000
-And you were right. Red color, almost 10 hours a day, even 10 hours a day.
-
-286
-00:10:48,000 --> 00:10:53,000
-It was games, it was a combination of games and the creation of something digital.
-
-287
-00:10:54,000 --> 00:10:59,000
-The computer created a very significant amount of that time in my life.
-
-288
-00:11:00,000 --> 00:11:02,000
-So, the tax was clear.
-
-289
-00:11:03,000 --> 00:11:08,000
-In the 20s, I counted it, I spent one year just playing games.
-
-290
-00:11:09,000 --> 00:11:12,000
-Just playing games, there was no time for mobile phones and so on.
-
-291
-00:11:13,000 --> 00:11:15,000
-It's more than 8,000 hours, right?
-
-292
-00:11:15,000 --> 00:11:17,000
-Imagine you're sitting at the computer.
-
-293
-00:11:17,000 --> 00:11:19,000
-Imagine, there's a tax there.
-
-294
-00:11:20,000 --> 00:11:29,000
-And it's actually that I'm organized in that digital space, but I really can't go in the direction I need or want.
-
-295
-00:11:30,000 --> 00:11:35,000
-I'm connected on social networks with various people, friends or not.
-
-296
-00:11:36,000 --> 00:11:41,000
-And the real connection, as if when I meet, it's not there at all.
-
-297
-00:11:41,000 --> 00:11:47,000
-I'm informed by various channels, but I can't focus at the moment on what I need.
-
-298
-00:11:52,000 --> 00:11:59,000
-And so I went from this world, primary, secondary school, I went to the world of high school.
-
-299
-00:11:59,000 --> 00:12:02,000
-And there, of course, it was very natural for me.
-
-300
-00:12:02,000 --> 00:12:03,000
-That yes, a programmer.
+But today, we’re already on our 35th meetup.
+
+39  
+00:01:25,000 --> 00:01:27,000  
+I'll show this slide now  
+
+40  
+00:01:27,000 --> 00:01:29,000  
+so I can remember to mention it.  
+
+41  
+00:01:29,000 --> 00:01:31,000  
+So, we've already met 35 times  
+
+42  
+00:01:31,000 --> 00:01:33,000  
+here in Coworking Poprad.  
+
+43  
+00:01:33,000 --> 00:01:35,000  
+We haven’t been anywhere else so far.  
+
+44  
+00:01:35,000 --> 00:01:37,000  
+Thank you, Tomáš, for letting us be here.  
+
+45  
+00:01:37,000 --> 00:01:39,000  
+Tomáš is in the back, running things.  
+
+46  
+00:01:39,000 --> 00:01:41,000  
+Today’s topic, as I mentioned,  
+
+47  
+00:01:41,000 --> 00:01:44,000  
+won’t be strictly or purely technical.  
+
+48  
+00:01:44,000 --> 00:01:47,000  
+It’ll be more about productivity,  
+
+49  
+00:01:47,000 --> 00:01:49,000  
+about self-development.  
+
+50  
+00:01:49,000 --> 00:01:51,000  
+And I’m really happy for the opportunity  
+
+51  
+00:01:51,000 --> 00:01:53,000  
+because despite the fact that  
+
+52  
+00:01:53,000 --> 00:01:55,000  
+I've been trying to be  
+
+53  
+00:01:55,000 --> 00:01:57,000  
+either productive  
+
+54  
+00:01:57,000 --> 00:01:59,000  
+or not dependent on technology,  
+
+55  
+00:01:59,000 --> 00:02:01,000  
+but rather to have technology  
+
+56  
+00:02:01,000 --> 00:02:03,000  
+as my tool—  
+
+57  
+00:02:03,000 --> 00:02:05,000  
+a tool that serves me—  
+
+58  
+00:02:05,000 --> 00:02:07,000  
+it's difficult.  
+
+59  
+00:02:07,000 --> 00:02:09,000  
+So I'm curious what I'll learn today.  
+
+60  
+00:02:09,000 --> 00:02:11,000  
+I won't introduce Samo  
+
+61  
+00:02:11,000 --> 00:02:13,000  
+because he'll do that in a moment.  
+
+62  
+00:02:13,000 --> 00:02:15,000  
+So this is our presenter.  
+
+63  
+00:02:15,000 --> 00:02:17,000  
+And if you have any questions,  
+
+64  
+00:02:17,000 --> 00:02:19,000  
+I assume you can ask them directly  
+
+65  
+00:02:19,000 --> 00:02:21,000  
+or leave them for later.  
+
+66  
+00:02:21,000 --> 00:02:23,000  
+Or you can use Slido  
+
+67  
+00:02:23,000 --> 00:02:25,000  
+with the hashtag #tatryit.  
+
+68  
+00:02:25,000 --> 00:02:27,000  
+So if you know how to use Slido  
+
+69  
+00:02:27,000 --> 00:02:29,000  
+and don’t want to interrupt  
+
+70  
+00:02:29,000 --> 00:02:31,000  
+but want to ask a question  
+
+71  
+00:02:31,000 --> 00:02:33,000  
+at the end,  
+
+72  
+00:02:33,000 --> 00:02:35,000  
+feel free to use Slido.  
+
+73  
+00:02:35,000 --> 00:02:37,000  
+We’ll take a look at it.  
+
+74  
+00:02:37,000 --> 00:02:39,000  
+Those of you not in our newsletter—  
+
+75  
+00:02:39,000 --> 00:02:41,000  
+I'll repeat—  
+
+76  
+00:02:41,000 --> 00:02:43,000  
+you can sign up for the newsletter.  
+
+77  
+00:02:43,000 --> 00:02:45,000  
+Just go to www.tatryit.sk  
+
+78  
+00:02:45,000 --> 00:02:47,000  
+and if you wait a moment—  
+
+79  
+00:02:47,000 --> 00:02:49,000  
+maybe five seconds—  
+
+80  
+00:02:49,000 --> 00:02:51,000  
+a pop-up will appear  
+
+81  
+00:02:51,000 --> 00:02:53,000  
+and you can enter your name and email.  
+
+82  
+00:02:53,000 --> 00:02:55,000  
+And you'll be notified  
+
+83  
+00:02:55,000 --> 00:02:57,000  
+when there’s a new meetup.  
+
+84  
+00:02:57,000 --> 00:02:59,000  
+And in connection with that—  
+
+85  
+00:02:59,000 --> 00:03:01,000  
+we have three more dates for meetups  
+
+86  
+00:03:01,000 --> 00:03:03,000  
+until June.  
+
+87  
+00:03:03,000 --> 00:03:05,000  
+That means we’ll meet  
+
+88  
+00:03:05,000 --> 00:03:07,000  
+next after this one in April,  
+
+89  
+00:03:07,000 --> 00:03:09,000  
+then in May,  
+
+90  
+00:03:09,000 --> 00:03:11,000  
+and also in June.  
+
+91  
+00:03:11,000 --> 00:03:13,000  
+The June date isn’t confirmed yet,  
+
+92  
+00:03:13,000 --> 00:03:15,000  
+but we can already tell you  
+
+93  
+00:03:15,000 --> 00:03:17,000  
+there will be one non-technical theme,  
+
+94  
+00:03:17,000 --> 00:03:19,000  
+one very practical technical theme,  
+
+95  
+00:03:19,000 --> 00:03:21,000  
+and the last one will be very technical.  
+
+96  
+00:03:21,000 --> 00:03:23,000  
+So that’s all good—  
+
+97  
+00:03:23,000 --> 00:03:25,000  
+we'll meet on the 24th.  
+
+98  
+00:03:25,000 --> 00:03:27,000  
+On the 24th,  
+
+99  
+00:03:27,000 --> 00:03:29,000  
+Miki Plichta Registered
+
+100  
+00:03:29,000 --> 00:03:31,000  
+will talk to us  
+
+101  
+00:03:31,000 --> 00:03:33,000  
+about LinkedIn.  
+
+102  
+00:03:33,000 --> 00:03:35,000  
+How to prepare your LinkedIn account.  
+
+103  
+00:03:35,000 --> 00:03:37,000  
+It's not enough  
+
+104  
+00:03:37,000 --> 00:03:39,000  
+to write a CV—  
+
+105  
+00:03:39,000 --> 00:03:41,000  
+you have to present yourself  
+
+106  
+00:03:41,000 --> 00:03:43,000  
+on social networks.  
+
+107  
+00:03:43,000 --> 00:03:45,000  
+So Miki Plichta will join us  
+
+108  
+00:03:45,000 --> 00:03:47,000  
+and talk about LinkedIn profiles  
+
+109  
+00:03:47,000 --> 00:03:49,000  
+for technical people  
+
+110  
+00:03:49,000 --> 00:03:51,000  
+or for scientists.  
+
+111  
+00:03:51,000 --> 00:03:53,000  
+Let me tell you—  
+
+112  
+00:03:53,000 --> 00:03:55,000  
+everyone needs this kind of information.  
+
+113  
+00:03:57,000 --> 00:03:59,000  
+Let's get to our topic today.  
+
+114  
+00:03:59,000 --> 00:04:01,000  
+Samo, welcome back  
+
+115  
+00:04:01,000 --> 00:04:03,000  
+for the second time.  
+
+116  
+00:04:03,000 --> 00:04:05,000  
+It's good to see you here.  
+
+117  
+00:04:05,000 --> 00:04:07,000  
+So you're not a newbie—  
+
+118  
+00:04:07,000 --> 00:04:09,000  
+you’ve been with us  
+
+119  
+00:04:09,000 --> 00:04:11,000  
+for a while now.  
+
+120  
+00:04:11,000 --> 00:04:13,000  
+So come on up  
+
+121  
+00:04:13,000 --> 00:04:15,000  
+and tell us  
+
+122  
+00:04:15,000 --> 00:04:17,000  
+what your topic is  
+
+123  
+00:04:17,000 --> 00:04:19,000  
+and take the stage.  
+
+124  
+00:04:19,000 --> 00:04:21,000  
+Thank you.  
+
+125  
+00:04:21,000 --> 00:04:23,000  
+Let's start the presentation.  
+
+126  
+00:04:41,000 --> 00:04:43,000  
+It was supposed to be a video,  
+
+127  
+00:04:43,000 --> 00:04:45,000  
+but you probably didn’t notice.  
+
+128  
+00:04:47,000 --> 00:04:49,000  
+There should be more of them,  
+
+129  
+00:04:49,000 --> 00:04:51,000  
+but let’s go.  
+
+130  
+00:04:51,000 --> 00:04:53,000  
+You are a digital slave.  
+
+131  
+00:04:53,000 --> 00:04:55,000  
+This is something  
+
+132  
+00:04:55,000 --> 00:04:57,000  
+I had to admit  
+
+133  
+00:04:57,000 --> 00:04:59,000  
+roughly two years ago—  
+
+134  
+00:04:59,000 --> 00:05:01,000  
+more than two years ago.  
+
+135  
+00:05:01,000 --> 00:05:03,000  
+It was the reality  
+
+136  
+00:05:03,000 --> 00:05:05,000  
+I faced  
+
+137  
+00:05:05,000 --> 00:05:07,000  
+on my life journey.  
+
+138  
+00:05:07,000 --> 00:05:09,000  
+And it looked  
+
+139  
+00:05:09,000 --> 00:05:11,000  
+like this.  
+
+140  
+00:05:11,000 --> 00:05:13,000  
+Imagine the camera  
+
+141  
+00:05:13,000 --> 00:05:15,000  
+moving now in this video—  
+
+142  
+00:05:15,000 --> 00:05:17,000  
+it shows you the whole room,  
+
+143  
+00:05:17,000 --> 00:05:19,000  
+the computer,  
+
+144  
+00:05:19,000 --> 00:05:21,000  
+the screen.  
+
+145  
+00:05:21,000 --> 00:05:23,000  
+And this is what it looks like  
+
+146  
+00:05:23,000 --> 00:05:25,000  
+when you are a digital child.  
+
+147  
+00:05:25,000 --> 00:05:27,000  
+You simply don’t see the boundary  
+
+148  
+00:05:27,000 --> 00:05:29,000  
+between the digital world  
+
+149  
+00:05:29,000 --> 00:05:31,000  
+and the real world.  
+
+150  
+00:05:31,000 --> 00:05:33,000  
+Everything is merged into one.  
+
+151  
+00:05:33,000 --> 00:05:35,000  
+You are a digital child  
+
+152  
+00:05:35,000 --> 00:05:37,000  
+when technology stands in your way  
+
+153  
+00:05:37,000 --> 00:05:39,000  
+of movement.  
+
+154  
+00:05:39,000 --> 00:05:41,000  
+You spend enormous amounts of time  
+
+155  
+00:05:41,000 --> 00:05:43,000  
+consuming online content.  
+
+156  
+00:05:43,000 --> 00:05:45,000  
+It could be any social network,  
+
+157  
+00:05:45,000 --> 00:05:47,000  
+it could be TV series.  
+
+158  
+00:05:47,000 --> 00:05:49,000  
+You work remotely  
+
+159  
+00:05:49,000 --> 00:05:51,000  
+and go straight from bed  
+
+160  
+00:05:51,000 --> 00:05:53,000  
+to the screen.  
+
+161  
+00:05:53,000 --> 00:05:55,000  
+You are a digital slave  
+
+162  
+00:05:55,000 --> 00:05:57,000  
+when technology  
+
+163  
+00:05:57,000 --> 00:05:59,000  
+doesn’t help you  
+
+164  
+00:05:59,000 --> 00:06:01,000  
+stay focused on your work.  
+
+165  
+00:06:01,000 --> 00:06:03,000  
+You get interrupted by irrelevant notifications  
+
+166  
+00:06:03,000 --> 00:06:05,000  
+anytime during work.  
+
+167  
+00:06:05,000 --> 00:06:07,000  
+You don’t have enough concentration,  
+
+168  
+00:06:07,000 --> 00:06:09,000  
+and constantly need  
+
+169  
+00:06:09,000 --> 00:06:11,000  
+a dopamine shot  
+
+170  
+00:06:11,000 --> 00:06:13,000  
+to find something more interesting  
+
+171  
+00:06:13,000 --> 00:06:15,000  
+than your actual work.  
+
+172  
+00:06:15,000 --> 00:06:17,000  
+I don’t know.  
+
+173  
+00:06:17,000 --> 00:06:19,000  
+You are a digital child  
+
+174  
+00:06:19,000 --> 00:06:21,000  
+when technology negatively affects  
+
+175  
+00:06:21,000 --> 00:06:23,000  
+your relationship development.  
+
+176  
+00:06:23,000 --> 00:06:25,000  
+Instead of meeting people  
+
+177  
+00:06:25,000 --> 00:06:27,000  
+in person,  
+
+178  
+00:06:27,000 --> 00:06:29,000  
+you prefer to live  
+
+179  
+00:06:29,000 --> 00:06:31,000  
+in your bubble behind a screen,  
+
+180  
+00:06:31,000 --> 00:06:33,000  
+and simply don’t want  
+
+181  
+00:06:33,000 --> 00:06:35,000  
+to confront yourself  
+
+182  
+00:06:35,000 --> 00:06:37,000  
+through others.  
+
+183  
+00:06:37,000 --> 00:06:39,000  
+Feel free to post  
+
+184  
+00:06:39,000 --> 00:06:41,000  
+as you see fit.  
+
+185  
+00:06:41,000 --> 00:06:43,000  
+Simply put, technology  
+
+186  
+00:06:43,000 --> 00:06:45,000  
+prevents you from living  
+
+187  
+00:06:45,000 --> 00:06:47,000  
+fully in the present moment.  
+
+188  
+00:06:47,000 --> 00:06:49,000  
+This is something I grew up with  
+
+189  
+00:06:49,000 --> 00:06:51,000  
+in my life.  
+
+190  
+00:06:51,000 --> 00:06:53,000  
+I needed to make a change.  
+
+191  
+00:06:53,000 --> 00:06:55,000  
+I needed to transform.  
+
+192  
+00:06:55,000 --> 00:06:57,000  
+This is my path  
+
+193  
+00:06:57,000 --> 00:06:59,000  
+to digital freedom—  
+
+194  
+00:06:59,000 --> 00:07:01,000  
+or how I got  
+
+195  
+00:07:01,000 --> 00:07:03,000  
+technology under control in my life.  
+
+196  
+00:07:05,000 --> 00:07:07,000  
+Imagine this:  
+
+197  
+00:07:07,000 --> 00:07:09,000  
+it was supposed to be a video.  
+
+198  
+00:07:09,000 --> 00:07:11,000  
+It’s just a man  
+
+199  
+00:07:11,000 --> 00:07:13,000  
+connected to cables  
+
+200  
+00:07:13,000 --> 00:07:15,000  
+that represent  
+
+201  
+00:07:15,000 --> 00:07:17,000  
+various applications we use.  
+
+202  
+00:07:17,000 --> 00:07:19,000  
+To go through  
+
+203  
+00:07:19,000 --> 00:07:21,000  
+a transformation,  
+
+204  
+00:07:21,000 --> 00:07:23,000  
+the technologies  
+
+205  
+00:07:23,000 --> 00:07:25,000  
+start to serve the person,  
+
+206  
+00:07:25,000 --> 00:07:27,000  
+and not the person  
+
+207  
+00:07:27,000 --> 00:07:29,000  
+serving the technology,  
+
+208  
+00:07:29,000 --> 00:07:31,000  
+as it often is in our lives.  
+
+209  
+00:07:31,000 --> 00:07:33,000  
+In my case, it definitely was.  
+
+210  
+00:07:33,000 --> 00:07:35,000  
+Before I start  
+
+211  
+00:07:35,000 --> 00:07:37,000  
+with my story,  
+
+212  
+00:07:37,000 --> 00:07:39,000  
+I'll talk about myself.  
+
+213  
+00:07:39,000 --> 00:07:41,000  
+I'm a web programmer,  
+
+214  
+00:07:41,000 --> 00:07:43,000  
+and I also build projects  
+
+215  
+00:07:43,000 --> 00:07:45,000  
+that reflect my values.  
+
+216  
+00:07:45,000 --> 00:07:47,000  
+This is my way to digital freedom—  
+
+217  
+00:07:47,000 --> 00:07:49,000  
+or "digital freedom",  
+
+218  
+00:07:49,000 --> 00:07:51,000  
+if we translate it from English.  
+
+219  
+00:07:51,000 --> 00:07:53,000  
+Free With Tech.  
+
+220  
+00:07:53,000 --> 00:07:55,000  
+Let's get started.  
+
+221  
+00:07:55,000 --> 00:07:57,000  
+Get ready,  
+
+222  
+00:07:57,000 --> 00:07:59,000  
+because this will be a tough ride.  
+
+223  
+00:08:01,000 --> 00:08:03,000  
+Digital native.  
+
+224  
+00:08:03,000 --> 00:08:05,000  
+What is this term?  
+
+225  
+00:08:05,000 --> 00:08:07,000  
+I'm someone who grew up  
+
+226  
+00:08:07,000 --> 00:08:09,000  
+with a phone in hand.  
+
+227  
+00:08:09,000 --> 00:08:11,000  
+At that time, different communication tools—  
+
+228  
+00:08:11,000 --> 00:08:13,000  
+like pokec.sk,  
+
+229  
+00:08:13,000 --> 00:08:15,000  
+facebook.com—  
+
+230  
+00:08:15,000 --> 00:08:17,000  
+I had it installed on my phone.  
+
+231  
+00:08:17,000 --> 00:08:19,000  
+I was among the first  
+
+232  
+00:08:19,000 --> 00:08:21,000  
+million users.  
+
+233  
+00:08:21,000 --> 00:08:23,000  
+I had my first phone  
+
+234  
+00:08:23,000 --> 00:08:25,000  
+in third grade of primary school.  
+
+235  
+00:08:25,000 --> 00:08:27,000  
+This is just to give you some
+
+236  
+00:08:27,000 --> 00:08:29,000  
+idea about my context.
+
+237  
+00:08:29,000 --> 00:08:31,000  
+I kept learning.  
+
+238  
+00:08:31,000 --> 00:08:33,000  
+Thanks to my parents,  
+
+239  
+00:08:33,000 --> 00:08:35,000  
+I was encouraged to be physically active.  
+
+240  
+00:08:35,000 --> 00:08:37,000  
+And until today, it’s stayed with me—  
+
+241  
+00:08:37,000 --> 00:08:39,000  
+as you can see in these photos—  
+
+242  
+00:08:39,000 --> 00:08:41,000  
+with my friends in the mountains  
+
+243  
+00:08:41,000 --> 00:08:43,000  
+and on bike routes.  
+
+244  
+00:08:43,000 --> 00:08:45,000  
+However, the reality was that  
+
+245  
+00:08:45,000 --> 00:08:47,000  
+technology eventually  
+
+246  
+00:08:47,000 --> 00:08:49,000  
+took the first place in my life.  
+
+247  
+00:08:49,000 --> 00:08:51,000  
+Eventually, yes.  
+
+248  
+00:08:51,000 --> 00:08:53,000  
+I went to trainings,  
+
+249  
+00:08:53,000 --> 00:08:55,000  
+I did sports,  
+
+250  
+00:08:55,000 --> 00:08:57,000  
+I tried to listen to my parents.  
+
+251  
+00:08:57,000 --> 00:08:59,000  
+Let’s say it was like that back then.  
+
+252  
+00:08:59,000 --> 00:09:01,000  
+Because they told me  
+
+253  
+00:09:01,000 --> 00:09:03,000  
+not to sit for so long  
+
+254  
+00:09:03,000 --> 00:09:05,000  
+at the computer.  
+
+255  
+00:09:05,000 --> 00:09:07,000  
+Of course, we didn’t know  
+
+256  
+00:09:07,000 --> 00:09:09,000  
+what it would lead to.  
+
+257  
+00:09:09,000 --> 00:09:11,000  
+Because it was a whole new world—  
+
+258  
+00:09:11,000 --> 00:09:13,000  
+the world of games.  
+
+259  
+00:09:13,000 --> 00:09:15,000  
+Picture a screen  
+
+260  
+00:09:15,000 --> 00:09:17,000  
+with a video game,  
+
+261  
+00:09:17,000 --> 00:09:19,000  
+and some design tool  
+
+262  
+00:09:19,000 --> 00:09:21,000  
+for creating graphics,  
+
+263  
+00:09:21,000 --> 00:09:23,000  
+coding, programming.  
+
+264  
+00:09:23,000 --> 00:09:25,000  
+That’s how  
+
+265  
+00:09:25,000 --> 00:09:27,000  
+my journey began.  
+
+266  
+00:09:27,000 --> 00:09:29,000  
+First it was mostly games,  
+
+267  
+00:09:29,000 --> 00:09:31,000  
+then by the end of primary school—  
+
+268  
+00:09:31,000 --> 00:09:33,000  
+graphic design and more.  
+
+269  
+00:09:33,000 --> 00:09:35,000  
+But it wasn’t balanced—  
+
+270  
+00:09:35,000 --> 00:09:37,000  
+not in the real world.  
+
+271  
+00:09:37,000 --> 00:09:39,000  
+The boundaries...  
+
+272  
+00:09:39,000 --> 00:09:41,000  
+Simply put, the digital world  
+
+273  
+00:09:41,000 --> 00:09:43,000  
+was gaining more and more control over me.  
+
+274  
+00:09:43,000 --> 00:09:48,000  
+Imagine a boy wearing digital glasses, where the real world is fighting with the digital one.  
+
+275  
+00:09:49,000 --> 00:09:56,000  
+It is as if the two worlds blended,  
+
+276  
+00:09:56,000 --> 00:09:59,000  
+and in my case, the digital world was definitely winning.  
+
+277  
+00:10:00,000 --> 00:10:03,000  
+Try guessing—what color represents,  
+
+278  
+00:10:04,000 --> 00:10:10,000  
+in terms of time spent, the screen time in a typical day for me in high school?  
+
+279  
+00:10:10,000 --> 00:10:17,000  
+What color do you think shows how much time I spent in front of a screen?  
+
+280  
+00:10:21,000 --> 00:10:22,000  
+Any other guesses?  
+
+281  
+00:10:23,000 --> 00:10:25,000  
+All of them? That would be quite extreme.  
+
+282  
+00:10:26,000 --> 00:10:30,000  
+Hackathon was probably the time I got that far.  
+
+283  
+00:10:39,000 --> 00:10:40,000  
+Thanks for the guesses.  
+
+284  
+00:10:41,000 --> 00:10:42,000  
+You were really close.  
+
+285  
+00:10:43,000 --> 00:10:47,000  
+And you were right—red color, nearly 10 hours a day, sometimes more.  
+
+286  
+00:10:48,000 --> 00:10:53,000  
+It was games, a combination of gaming and digital creation.  
+
+287  
+00:10:54,000 --> 00:10:59,000  
+The computer took up a huge chunk of my daily life.  
+
+288  
+00:11:00,000 --> 00:11:02,000  
+So the cost was clear.  
+
+289  
+00:11:03,000 --> 00:11:08,000  
+By my twenties, I calculated that I had spent one full year just playing games.  
+
+290  
+00:11:09,000 --> 00:11:12,000  
+Just gaming—mobile use and other stuff is not considered here.  
+
+291  
+00:11:13,000 --> 00:11:15,000  
+That’s more than 8,000 hours, right?  
+
+292  
+00:11:15,000 --> 00:11:17,000  
+Just imagine sitting at the computer...  
+
+293  
+00:11:17,000 --> 00:11:19,000  
+There’s a cost to that.  
+
+294  
+00:11:20,000 --> 00:11:29,000  
+Even though I was "organized" in the digital world, I couldn’t move forward in the direction I wanted.  
+
+295  
+00:11:30,000 --> 00:11:35,000  
+I was "connected" with lots of people online—friends or not.  
+
+296  
+00:11:36,000 --> 00:11:41,000  
+But real connections, when I actually met someone—were completely missing.  
+
+297  
+00:11:41,000 --> 00:11:47,000  
+I was "informed" via various channels, but I couldn’t focus on what mattered at the moment.  
+
+298  
+00:11:52,000 --> 00:11:59,000  
+So I went from primary school, through high school, and into college life.  
+
+299  
+00:11:59,000 --> 00:12:02,000  
+And for me, it was completely natural—  
+
+300  
+00:12:02,000 --> 00:12:03,000  
+yes, to become a programmer.  
 
 301
 00:12:03,000 --> 00:12:04,000
